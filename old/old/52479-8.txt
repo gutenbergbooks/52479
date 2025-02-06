@@ -1,6 +1,39 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 52479 ***
+The Project Gutenberg EBook of Natuurfantazieën, by G. Carelsen
 
-                            NATUURFANTAZIEÃ‹N
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+
+Title: Natuurfantazieën
+
+Author: G. Carelsen
+
+Release Date: July 2, 2016 [EBook #52479]
+
+Language: Dutch
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK NATUURFANTAZIEËN ***
+
+
+
+
+Produced by Jeroen Hellingman and the Online Distributed
+Proofreading Team at http://www.pgdp.net/ for Project
+Gutenberg.
+
+
+
+
+
+
+
+
+
+                            NATUURFANTAZIEËN
 
 
                                   DOOR
@@ -48,7 +81,7 @@ INHOUD.
         XIX.   Een inlandsche arend                     115
          XX.   Eene linde                               118
         XXI.   Tapijtbedden                             124
-       XXII.   De poÃ«zie van het groenten-schoonmaken   129
+       XXII.   De poëzie van het groenten-schoonmaken   129
       XXIII.   Korenbloemen                             135
        XXIV.   Een bergtocht                            140
         XXV.   Ouwerwetsche bloemen                     148
@@ -62,7 +95,7 @@ INHOUD.
      XXXIII.   Jacht en wild                            197
       XXXIV.   Gesloten?                                205
        XXXV.   Wintervogels                             209
-      XXXVI.   VÃ³Ã³r of achter den ploeg                 217
+      XXXVI.   Vóór of achter den ploeg                 217
      XXXVII.   Groenblijvende boomen                    225
     XXXVIII.   Een oudejaarswandeling                   231
 
@@ -87,18 +120,18 @@ spreekwijs luidt. Maar in de gegevene omstandigheden kan ik niet meer
 doen dan: hopen dat ik hier en daar iemand een verkwikkelijken indruk
 bezorgen moge door de lezing van dit boekje.
 
-"NatuurfantazieÃ«n" heb ik het genoemd. Nu is "Natuur" een
+"Natuurfantazieën" heb ik het genoemd. Nu is "Natuur" een
 van die groote woorden, welke, evenals hooge boomen, veel wind
 vangen,--namelijk veel "wind van leering"; het is een woord waarvan men
 dikwijls niet recht weet wat men er onder te verstaan heeft, omdat er
 soms een nauwere, soms weer een ruimere beteekenis aan wordt gegeven,
 b. v. nu eens de geheele wereld op den mensch na, en dan weer met den
-mensch, hetzij geheel of half er in, meÃª bedoeld wordt. Daarom zal ik
+mensch, hetzij geheel of half er in, meê bedoeld wordt. Daarom zal ik
 dus maar dadelijk zeggen, dat ik het hier opvat in den eenvoudigen en
 voor-de-hand-liggenden zin, waarin ieder beschaafd mensch het minstens
-Ã©Ã©ns per dag gebruikt: de zon, de lucht en de wolken, de aarde en
+ééns per dag gebruikt: de zon, de lucht en de wolken, de aarde en
 het water, de bloemen en het groen, de vogels en de vlinders rondom
-ons,--zij zijn de aanleiding tot deze mijn bescheiden "fantazieÃ«n".
+ons,--zij zijn de aanleiding tot deze mijn bescheiden "fantazieën".
 
 Voor een aantal menschen, althans die eene groote stad bewonen,
 wat ik overigens een waar voorrecht acht, behooren deze dingen tot
@@ -128,10 +161,10 @@ beschaafde maatschappij heb hooren samenvatten. En daar nu, wie veel
 wandelt, minder gevaar loopt van onder "de boeken" begraven te worden
 dan wie dat niet doet; en licht, lucht en zonneschijn, desnoods met
 inbegrip van af en toe een storm- en regenvlaag, hoe langer hoe meer
-blijken goede medicijn te wezen voor "de zenuwen",--zoo doet elk wÃ¨l
+blijken goede medicijn te wezen voor "de zenuwen",--zoo doet elk wèl
 die daartoe zijne maatregelen neemt.
 
-Dit voor onze gezondheid. En voor onzen geest? RÃ¼ckert heeft eens, in
+Dit voor onze gezondheid. En voor onzen geest? Rückert heeft eens, in
 een al of niet gemeende vlaag van menschen-verachting, den zonderlingen
 raad gegeven, de menschen te vermijden en zich zooveel mogelijk onder
 bloemen te bewegen; "dan zullen", voegt hij er ten slotte goedmoedig
@@ -142,7 +175,7 @@ van "de menschen" te verachten of te haten; maar voor ieder onzer
 komen wel eens tijden dat wij onder zekere menschelijke instellingen,
 maatschappelijke conventies, gezellige verhoudingen gebukt gaan,
 er mee overhoop liggen, er tegen opstaan. Indien men dan, op het
-punt van zich daardoor Ã²f te laten verbitteren, Ã²f te verslappen,
+punt van zich daardoor òf te laten verbitteren, òf te verslappen,
 hunkert om zich op te frisschen en te verruimen, dan weet ik dat de
 dichter gelijk heeft, als hij hiertoe den omgang met "bloemen",--in
 het algemeen met de "natuur",--als een weldadig middel aanbeveelt.
@@ -154,7 +187,7 @@ staat,--ook dan is de stille omgang met die "natuur" een weldaad. Wij
 moeten dan van haar niet vergen wat zij niet bij machte is te geven:
 geen antwoord van haar wachten op vragen die voor haar te hoog zijn;
 ons niet verbeelden, dat zij op alles raad zou weten. Zij helpt niet,
-zij troost niet onmiddellijk; maar dÃ Ã rin ligt voor een groot deel
+zij troost niet onmiddellijk; maar dààrin ligt voor een groot deel
 haar genezende kracht, dat zij de gelegenheid verschaft om, zonder
 afleiding van buiten, tot ons zelven in te keeren, en zoo tot rust
 en verzoening te geraken.
@@ -230,12 +263,12 @@ daarvoor plegen te zeggen: "On parlait la pluie et le beau temps."
 
 "Dat geeft nachtvorst!"
 
-"Ja, maar als zij zoo rustig, onbeweeglijk op Ã©Ã©n punt zweven, dat
+"Ja, maar als zij zoo rustig, onbeweeglijk op één punt zweven, dat
 is altijd een goed teeken."
 
 "Als zij duiken, dat is een slecht teeken."
 
-"'t Mocht wat! Duiken doen zij alle dagen, om haar voÃªr te zoeken."
+"'t Mocht wat! Duiken doen zij alle dagen, om haar voêr te zoeken."
 
 "Wat zouden zij dan eten?"
 
@@ -247,7 +280,7 @@ is altijd een goed teeken."
 
 "Wat gelooft u er dan van?"
 
-"Wel, dat ze weÃªrwijzers zijn."
+"Wel, dat ze weêrwijzers zijn."
 
 "Meeuwen zijn stormvogels; als zij zich vertoonen is er storm op
 zee. Ze waarschuwen de schepen."
@@ -257,7 +290,7 @@ zee. Ze waarschuwen de schepen."
 Indien wij nog iets meer van meeuwen willen weten, dan met deze
 heeren het geval scheen te zijn, dienen wij ze zooveel mogelijk op
 hun eigen terrein op te zoeken. Nu spijt het mij, dat ik niet weet,
-welk soort men daar op het oogenblik vÃ³Ã³r had. De kenners maken een
+welk soort men daar op het oogenblik vóór had. De kenners maken een
 groot onderscheid tusschen zeemeeuwen, en kok- of kapmeeuwen. De
 laatsten, zoo genoemd omdat de kleur van haar kop met de jaargetijden
 wisselt, zoodat zij 's zomers een zwart kapje schijnen op te hebben,
@@ -281,7 +314,7 @@ Stelt u voor een grauwen winterdag, zooals wij ze maar al te goed
 kennen, als de binnenwateren bevroren en de velden met een vuilwordende
 laag sneeuw bedekt zijn, en het boomloos noord-hollandsch landschap al
 wat het nog aan teekenachtigheid bezat, verloren heeft, doordien water,
-land en zwerk Ã©Ã©nzelfde vervelende tint hebben. De zee echter is dan
+land en zwerk éénzelfde vervelende tint hebben. De zee echter is dan
 nog niet bevroren; haar zoutgehalte en haar altijddurende beweging
 houden dit lang tegen; en de duinen... zijn dezelfden die zij in
 Juli waren, met bijvoeging van hier en daar wat opgewaaide sneeuw,
@@ -292,7 +325,7 @@ den langs rechte vaarten en vlakke dijken afgematten blik.
 Op 't strand kunnen wij ons vermeien in 't aanschouwen van dat
 zonderling aantrekkelijke ding, dat men de Noordzee noemt; en
 het zal niet lang duren of wij krijgen vogels in 't oog. Een paar
-zwarte stipjes op het water doen zich weldra als zwemmende zeeÃ«enden
+zwarte stipjes op het water doen zich weldra als zwemmende zeeëenden
 kennen. Ginds wandelen heel deftig een stuk of wat plevieren en
 strandloopertjes; en de nergens ontbrekende kraaien zijn ook hier
 natuurlijk bezig, de aangespoelde mosselschelpen na te zien. Maar
@@ -351,12 +384,12 @@ slechts drie, door twee zwemvliezen vereenigde teenen, en niet ook
 nog, als anderen, een kort, achteruitstekend duimpje er bij heeft. Zij
 zwerft in 't gure jaargetijde dikwijls in aanzienlijken getale hier,
 en zelfs aan de fransche en spaansche kusten rond, maar nestelt nooit
-beneden de 58Â° N. Br. Op IJsland en in Groenland beschouwt men deze
+beneden de 58° N. Br. Op IJsland en in Groenland beschouwt men deze
 als de eerste boden der lente; zij komen daar in het begin van Maart
-en blijven tot November. Daar en in ScandinaviÃ« worden zij niet alleen
+en blijven tot November. Daar en in Scandinavië worden zij niet alleen
 tot de schoone, maar ook tot de nuttige vogels gerekend. Menig noorsch
 landeigenaar berekent bij het voordeel dat zijn goederen afwerpen,
-wel degelijk de opbrengst aan meeuweneieren en veÃªren. In enkele
+wel degelijk de opbrengst aan meeuweneieren en veêren. In enkele
 streken wordt ook haar vleesch gegeten, maar bijna overal is men
 het eens, dat dit te "visschig" is om lekker te wezen. Trouwens
 dit is geen wonder. Zeemeeuwen leven in den regel uitsluitend van
@@ -381,7 +414,7 @@ waarvan de bevolking op die wijze in het eindelooze vermeerdert.
 Brehm, de vogelkenner bij uitnemendheid, stond verstomd, toen hij
 voor 't eerst persoonlijk dit schouwspel in het oog kreeg. "Toen
 ik mij gereed maakte voor mijne reis naar Lapland," vertelt hij,
-"had ik een aantal beschrijvingen van deze vogelkoloniÃ«n gelezen,
+"had ik een aantal beschrijvingen van deze vogelkoloniën gelezen,
 en ik twijfelde volstrekt niet aan hare betrouwbaarheid. Maar nooit
 zal ik den Julidag vergeten, waarop ik Kaap Svarhollt (niet ver van de
 Noordkaap) omzeilde, en voor het eerst een "vogelberg" aanschouwde. Wat
@@ -431,23 +464,23 @@ jaargetij; en de vetheid hunner dekvederen maakt hen ongevoelig voor
 de natheid van het water, waarvoor bijvoorbeeld musschen en kanaries
 zulk een angst en afkeer hebben. "Nu ja," zal men zeggen, "daarvoor
 zijn het zwemvogels." Doch is niet juist dit het belangrijke bij
-ons natuurgenot: na te gaan wÃ t een zwemvogel tot zwemvogel maakt
+ons natuurgenot: na te gaan wàt een zwemvogel tot zwemvogel maakt
 en hem in staat stelt het water te trotseeren? Wat is het dat het
 kleed der meeuwen en der eenden zoo waterproof doet zijn; en wat
 stelt het aardige verband daar, tusschen de hooge vlucht eens vogels
 en de vastheid van het vlechtwerk zijner vederen? Vlechtwerk moge
-geen geijkte term zijn: wie ooit een veÃªr bij, al zij het slechts
+geen geijkte term zijn: wie ooit een veêr bij, al zij het slechts
 vijftig-malige, vergrooting gezien heeft, zal mij recht geven het
 zoo te noemen.
 
 Doch zoo de meeuwen niet bang zijn voor het vocht en de koude,
 die voor zoo vele Nederlanders een voortdurende grief tegen hun
-vaderlandsch klimaat zijn, Ã©Ã©n ding schijnt ook haar te hinderen
+vaderlandsch klimaat zijn, één ding schijnt ook haar te hinderen
 en in hare behaaglijke strandgenoegens te storen: 't is als er
 storm op zee is. Ik weet niet of ik denken moet, dat werkelijk,
 onmiddellijk in letterlijken zin, de storm hen voortjaagt, of
 wel dat de beweeglijkheid der zee hun dan het visschen moeilijk
-maakt, Ã²f dat de onrust der natuur rondom haar zich ook in haar doet
+maakt, òf dat de onrust der natuur rondom haar zich ook in haar doet
 gelden... Indien schoolmeesters beweren, dat zij aan de luidruchtigheid
 der kinderen bemerken kunnen of er storm op til is; ja, indien zelfs
 vele volwassenen hun "humeur" niet boven dergelijke invloeden kunnen
@@ -472,7 +505,7 @@ Zomerdijk Bussink, en daar loert op hetgeen er voor hen aan den
 wal gegooid wordt. Indien dit waar is, kan men gerust zeggen dat de
 meeuwen goed op de hoogte zijn van de Amsterdamsche adressen, en,
 in aanmerking van het hierboven vermelde gesprek, dat zij Amsterdam
-wÃ¨l zoo goed kennen als vele Amsterdammers haar.
+wèl zoo goed kennen als vele Amsterdammers haar.
 
 
 
@@ -523,14 +556,14 @@ nader bekijken.
 
 Een groote rol spelen in de hedendaagsche vensterkultuur de
 Begonia's. Gelijk alle modeplanten, ontmoet men ze in eindelooze
-variÃ«teiten, van de "ouderwetsche" eenvoudigsten, met donkerroode
+variëteiten, van de "ouderwetsche" eenvoudigsten, met donkerroode
 bladeren, af, tot aan de nieuwsten met hun pracht van rood, groen
 en zilver.
 
 Hoeveel zij overigens onderling mogen verschillen,--drie dingen trekken
-bij alle Begonia's, ook vÃ³Ã³r dat zij bloeien, dadelijk de aandacht. Ten
+bij alle Begonia's, ook vóór dat zij bloeien, dadelijk de aandacht. Ten
 eerste de scheefheid der bladeren. Sterker nog dan bij het lindeblad,
-waarmeÃª zij overigens in den vorm wel eenige gelijkenis hebben,
+waarmeê zij overigens in den vorm wel eenige gelijkenis hebben,
 wordt men hier aanstonds getroffen door de ongelijkheid der twee
 helften van de bladschijf: een verschijnsel dat bij alle soorten,
 hetzij smal- of breedbladerig, wordt teruggevonden, en waaraan de
@@ -538,7 +571,7 @@ plant dan ook haren hollandschen naam Scheefblad ontleent. Ten tweede:
 de zeer sterke haargroei op de jonge bladeren en stelen, terwijl de
 anderen zoo goed als kaal zijn. Waar of die haren blijven? Afvallen
 zien wij ze toch nooit. Zouden zij misschien verschrompelen, wegdrogen,
-vergaan? Laat ons het veeleer zÃ³Ã³ opvatten, dat de bladeren, naarmate
+vergaan? Laat ons het veeleer zóó opvatten, dat de bladeren, naarmate
 zij groeien, er geen nieuwe haren meer bij krijgen; en dat hetzelfde
 aantal haren, over eene grootere oppervlakte verspreid, niet zoozeer
 in het oog valt, als wanneer zij, op een kleiner ruimte, dichter bij
@@ -605,12 +638,12 @@ vast te willen maken.
 Binnen weinig weken zullen sterker, grover Primula's op den kouden
 grond in bloei staan. Het zijn onze goede Sleutelbloemen, of
 "Primulaveeren", of "Bakkruidjes", zooals de tuinlui ze plegen te
-noemen; de "PrimevÃ¨res" der Franschen en de "Primroses" der Engelschen.
+noemen; de "Primevères" der Franschen en de "Primroses" der Engelschen.
 
 En dan hebben wij ook inlandsche Primula's, sleutelbloemen die hier
 in het wild groeien. Somtijds ontmoet men ze in weiden of vochtige
 bosschen en herkent ze dan aan haar "faux-air" van de in den tuin
-gekweekten. EÃ©ne soort schijnt in Engeland minder zeldzaam te wezen
+gekweekten. Eéne soort schijnt in Engeland minder zeldzaam te wezen
 dan hier; althans ze bloeit onder den naam van "cowslips" in negen
 van de tien engelsche romans.--
 
@@ -636,7 +669,7 @@ aanleiding geeft, maar volstrekt niet voor een bijna recht opstrevend
 struikje. En wij spraken straks van bladplanten: hier hebben wij
 te doen met een tegenovergesteld uiterste. Ofschoon ook in haar
 vaderland de bloemen der Azalea indica zeer overvloedig moeten wezen,
-zou het mij zeer verwonderen of zij daar ooit zÃ³Ã³ geheel het groen
+zou het mij zeer verwonderen of zij daar ooit zóó geheel het groen
 dreigden te verdringen, als hier het ideaal der kweekers schijnt te
 zijn. Ik moet het eerlijk zeggen: ik vind iets grofs, iets plomps,
 iets onbehouwens in die roode of witte bloem-klompen-op-stokjes,
@@ -728,13 +761,13 @@ de door het instinkt van alle eeuwen als zinnebeeld van ontluikende
 lieflijkheid vereerde rozenknoppen, lieflijk tot in de onregelmatigheid
 harer twee en drie ongelijke kelkslippen!
 
-Maar Ã©Ã©n ding is toch waar: een Camellia heeft geen doornen!...
+Maar één ding is toch waar: een Camellia heeft geen doornen!...
 
-WÃ¡Ã¡r is dat, ja. Maar indien ooit een Camellia zich daarop beroemde
+Wáár is dat, ja. Maar indien ooit een Camellia zich daarop beroemde
 boven rozen, dan zou ik even innig lachen of boos worden, als bij
 dergelijke wanhopige verontschuldigingen in de menschenwereld! Eene
 roos heeft nu eenmaal evenveel van eene Camellia als genie van fatsoen;
-als zonneschijn van gemeen daglicht; als poÃ«zie van proza;--en alle
+als zonneschijn van gemeen daglicht; als poëzie van proza;--en alle
 doornen (vraag excuus, botanist, jawel, stekels!) uit de rozetuinen van
 het Oosten en het Westen, hebben daarin tot nog toe geen verandering
 kunnen brengen.
@@ -803,7 +836,7 @@ aanplantingen, het betrekkelijk geringe aantal gevelde boomen weder
 aan te vullen. Wat echter vult bij ons de plaats aan van de bosschen
 van zoo menige vernielde buitenplaats? Wat belooft daarvoor zelfs in
 de toekomst eenige vergoeding? Op hoe menig landgoed is een statig
-beukenbosch neÃªrgehaald, alleen om geldelijke redenen,--omdat men er
+beukenbosch neêrgehaald, alleen om geldelijke redenen,--omdat men er
 meer dadelijk voordeel in zag, op die gronden tabak of aardappelen,
 of wie weet welk ander veldgewas te kweeken; terwijl het nog de vraag
 geweest zou zijn, of zij, bij een goede exploitatie, als bosch, op den
@@ -822,11 +855,11 @@ dat zij "ongezond zijn"? Ik weet een stad, waar vroeger overal,
 langs grachten en langs pleinen, en zelfs hier en daar op breede
 punten van de straten, fraaie linden, iepen en kastanjes stonden,
 en waar die thans jaar aan jaar om gemelde reden verminderen. Indien
-men eens van deze opvatting terugkeert, en weÃªr boomen wil hebben,
+men eens van deze opvatting terugkeert, en weêr boomen wil hebben,
 zal men ze van nieuws aan dienen te gaan planten, en geduldig moeten
 wachten tot zij weder groot zijn!--En dan komt het maar al te dikwijls
 voor, dat het vooruitzicht van den langen tijd die daartoe noodig is,
-iemand afschrikt om er meÃª te beginnen. Dat is jammer. Vooreerst duurt
+iemand afschrikt om er meê te beginnen. Dat is jammer. Vooreerst duurt
 het, welbekeken, zoo heel lang niet eer men van een jongen boom,
 een jonge aanplanting, genot kan hebben. In ons vochtig klimaat,
 op onzen waterrijken grond, waar in het algemeen het hout grover
@@ -835,24 +868,24 @@ hoogere, droge streken, groeien alle boomen aanmerkelijk sneller,
 zoodat de planter binnen weinig jaren zijn doel reeds grootendeels
 bereikt heeft. Maar dan nog: plant men slechts voor zichzelven? Mag
 men goedsmoeds, als de oude boomen vallen, de toekomst in dit opzicht
-aan haar lot overlaten, als met een "aprÃ¨s nous le dÃ©luge"? En is
+aan haar lot overlaten, als met een "après nous le déluge"? En is
 er, onafhankelijk van alle andere overwegingen, niet een weelde in
 't zien opgroeien van wat men heeft aangelegd?
 
-Gun dat ik de geschiedenis van onze TannhÃ¤user-allee vertel. Bekend
-is de legende van den duitschen ridder TannhÃ¤user, die, na een geheel
+Gun dat ik de geschiedenis van onze Tannhäuser-allee vertel. Bekend
+is de legende van den duitschen ridder Tannhäuser, die, na een geheel
 jaar in den Venusberg te hebben doorgebracht, naar Rome ging om paus
 Urbanus vergiffenis te smeeken, met de ernstige belofte van boete te
 doen voor zijn zonden. Maar de paus was ditmaal, men zegt niet om welke
 reden, onvermurwbaar. Hij hief een dorren stok op, en betuigde: wanneer
 deze stok bladeren draagt, zullen uwe zonden u vergeven worden. Toen
-trok TannhÃ¤user de heilige stad weder uit, "in jammer en in lijden",
+trok Tannhäuser de heilige stad weder uit, "in jammer en in lijden",
 en riep "Maria-Moeder, de reine maagd" tot getuige, dat hij gedaan had
 wat hij kon, om weder als haar dienaar te worden aangenomen. En ziet,
 de Moeder-Gods, de draagster der goddelijke barmhartigheid, deed een
 wonder: den derden dag begon de stok groene blaadjes te krijgen. En
 hetzij men nu, met de oude ballade, de tragische opvatting volge, dat
-er twee boden uitgezonden werden naar alle landen, waar TannhÃ¤user
+er twee boden uitgezonden werden naar alle landen, waar Tannhäuser
 doorgegaan was, maar dat men hem nergens vond, omdat hij, in zijn
 wanhoop, weder in den Venusberg teruggekeerd was; hetzij men, met
 Wagner's blijmoediger opera, den ridder werkelijk van het voor hem
@@ -860,7 +893,7 @@ gedane wonder genot late hebben,--de dorre stok met groene blaadjes
 staat daar als lieflijk beeld van de "eeuwige genade", die meer is dan
 "straffende gerechtigheid".
 
-Zoo dor als die stok van TannhÃ¤user, waren de jonge iepen, die
+Zoo dor als die stok van Tannhäuser, waren de jonge iepen, die
 een paar jaar geleden langs zekeren noordhollandschen grintweg
 geplant werden; en een even groot wonder als ter wille van dien
 ridder geschied was, scheen het menigeen toe, dat zij waarlijk in
@@ -880,7 +913,7 @@ om te beproeven of er nog groen teeltweefsel onder zat. Oningewijden
 beweerden, dat een boom, waar eens de kop uitgehakt is, nooit weer
 een goed fatsoen kan krijgen; een botanicus-kamergeleerde was van
 gevoelen, dat de boompjes niet zouden kunnen groeien bij gebrek aan
-dunne twijgen, omdat eerst door de functiÃ«n der bladeren de stam en
+dunne twijgen, omdat eerst door de functiën der bladeren de stam en
 wortels zich zouden kunnen ontwikkelen. Maar zij die ondervinding van
 't geval hadden, verzekerden dat deze plantwijs meer en meer de beste
 blijkt te zijn voor onze winderige hollandsche vlakten. Met name voor
@@ -891,7 +924,7 @@ de koppen toch na een verplanting veelal gedeeltelijk afsterven, is
 het voor den gelijkmatigen groei van eene laan veel beter, dat zij
 tot op gelijke hoogte gekapt worden. Het duurde trouwens niet lang,
 of zij hadden een nieuw kopje gevormd. Tot aan Sint Jan hadden zij
-niet veel van zich doen merken; maar reeds vÃ³Ã³r de herfst inviel,
+niet veel van zich doen merken; maar reeds vóór de herfst inviel,
 hadden zij ieder een twintigtal loten, waarvan de langsten, bovensten,
 bijna een el lang waren. Slechts zeer enkelen stierven, en moesten in
 het volgend voorjaar ingeboet worden; het derde jaar waren zij reeds
@@ -905,7 +938,7 @@ geweest; de zware, dikke populieren in Noord-Brabant zijn ook klein
 geweest in hunnen jongen tijd. De linden van de Spanjaardslaan bij
 Haarlem zijn ook als dunne linden-afleggers geplant moeten worden; van
 de prachtige houtpartijen rondom 's Graveland bestond niets, totdat
-vÃ³Ã³r nu 150 jaar Salomon Dedel aldaar zijne aanplantingen waagde;
+vóór nu 150 jaar Salomon Dedel aldaar zijne aanplantingen waagde;
 en als in zekeren winter, zeker iemand in Gelderland geen lust gehad
 had, om twee paar rijen beuken te planten, die hijzelf stellig nimmer
 groot zou zien, dan was er nooit gekomen, wat thans "de schoonste
@@ -931,7 +964,7 @@ DE LANGE LENTE.
 Onder de onmogelijke verhalen, die ik mij uit mijn kindertijd herinner,
 onafscheidelijk verbonden aan het beeld van de oude kindermeid die
 ze vertelde, is er een van een daglooner die een varken geslacht
-had, en daarvan den geheelen winter Ã©Ã©ne zij spek bewaarde. Als de
+had, en daarvan den geheelen winter ééne zij spek bewaarde. Als de
 kinderen vroegen waarvoor die eigenlijk bewaard werd, dan luidde vaders
 antwoord: "Voor de lange lange lente."--Eens op een bar kouden dag,
 terwijl de man uit was, kwam er een heel lange bedelaar vragen of hij
@@ -952,14 +985,14 @@ hebben. 't Is vooral de maand Maart, die in dit opzicht zeer berucht
 is; en op al het kwaad dat men van haar pleegt te vertellen, moet ik
 antwoorden, dat zij zonder twijfel een dikken mantel en "goed voer en
 een warmen stal" zeer op prijs doet stellen. Doch zooals alle andere
-dingen, kan men Maart ook van twee kanten bekijken. Men kan Ã  la baisse
+dingen, kan men Maart ook van twee kanten bekijken. Men kan à la baisse
 speculeeren op haar eigenschappen en zeggen: "Maart heet Lentemaand;
 een mooie lente met die Maartsche buien!" Maar men kan het, omgekeerd,
-ook Ã  la hausse doen, en met een keurig versje van Gautier verzekeren:
+ook à la hausse doen, en met een keurig versje van Gautier verzekeren:
 
 
-           "Mars, qui rit, malgrÃ© ses averses,
-            PrÃ©pare en secret le printemps."
+           "Mars, qui rit, malgré ses averses,
+            Prépare en secret le printemps."
 
 
 In deze laatste woorden is, dunkt mij, haar karakter zeer juist
@@ -969,16 +1002,16 @@ opzicht twijfel ik ook dit jaar niet aan hare goede diensten.
 
 Hoe zij dat doet?... Wel, door die scherpe "Maartsche lucht" die
 velen zoo onaangenaam aangrijpt. Wat maakt deze zoo geducht voor
-teÃªre, verwende gestellen, maar tevens zoo beroemd voor "de Maartsche
+teêre, verwende gestellen, maar tevens zoo beroemd voor "de Maartsche
 bleek"? 't Is haar rijkdom aan ozon. 't Is omdat, in dezen tijd van het
 jaar, de zonnestralen hare sterkste oplossende en verbindende kracht
 hebben, en die kracht naar alle zijden doen gelden,--om 't even of
 hun een stuk linnen of menschelijke longen ter bearbeiding aangeboden
 worden. Guur en bar als zij soms wezen moge, is Maartsche koude heel
-iets anders dan Novemberkoude; voor zwakken is zij dikwijls wÃ¨l zoo
+iets anders dan Novemberkoude; voor zwakken is zij dikwijls wèl zoo
 schadelijk; zij "pakt hen erg aan" en maakt hen eer verkouden; maar
 voor gezonden is zij des te levenwekkender. Wie op een mooien--neen,
-zij het slechts op een gewonen, grauwen--Maartdag Ã©Ã©n uur goed
+zij het slechts op een gewonen, grauwen--Maartdag één uur goed
 doorgeloopen heeft, voelt aan zijn eetlust, aan zijn opgewektheid en
 zijn helderheid, hoe "sterk" de lucht is. Hij behoeft daartoe niet eens
 te zien hoe dik de knoppen van de meeste heesters worden, hoe de elzen
@@ -1044,7 +1077,7 @@ zijn nood klaagde:
     Ik heb Honorius den laatsten snik zien geven.
     Hier zag ik Hannibal, daar Cesar ondergaan,
     Met Palamedes en Ulyssus is 't gedaan!
-    De trotsche PhaÃ«ton viel met den Zonnewagen;
+    De trotsche Phaëton viel met den Zonnewagen;
     Parmenio werd kort hierna in 't veld verslagen.
     'k Zag Agamemnon in zijn eigen bloed gesmoord,
     En Clytemnestra naast Orestes snood vermoord,
@@ -1058,16 +1091,16 @@ zijn nood klaagde:
     Wat van Monarq' du Monde, een allerbesten bol,
     Nog worden wil, dat moet ik straks eens aan gaan staren,--
     (De droes nam mij het paard,--zou hij den ruiter sparen?)
-    De Sultan is verreisd; King George meÃª van kant,
+    De Sultan is verreisd; King George meê van kant,
     En met den Ooijevaar naar 't onbekende land!
     'k Heb Thalia en Mars, en Hercules zien vellen;...
-    Waar is, o GoÃ´n, de schaar die 'k eertijds konde tellen?
-    WaarmeÃª heb ik mijn tijd, mijn vlijt en geld verkwist?
+    Waar is, o Goôn, de schaar die 'k eertijds konde tellen?
+    Waarmeê heb ik mijn tijd, mijn vlijt en geld verkwist?
     Nu ben ik een bloemist, die al zijn bloemen mist!
 
 
 't Was heel jammer en akelig. Maar dat was dan ook in het jaar 1740. En
-daarbij: kan Maart het helpen, dat men hier, op onze 52 1/2Â° N.B.,
+daarbij: kan Maart het helpen, dat men hier, op onze 52 1/2° N.B.,
 in den kouden grond planten wil kweeken, die in de Levant t'huis
 behooren? Wie het wagen wil, wage het, maar werpe niet ten slotte de
 schuld op ons klimaat!
@@ -1114,8 +1147,8 @@ Kiebitze bij menigte; in Engeland is de Peewit geen zeldzaamheid,
 en in het zuiden van Frankrijk is het rijmpje in omloop:
 
 
-            Qui n'a pas mangÃ© de vanneau,
-            N'a pas mangÃ© de bon morceau.
+            Qui n'a pas mangé de vanneau,
+            N'a pas mangé de bon morceau.
 
 
 (Daar eet men dus de vogels zelven; hier stellen wij ons met hun
@@ -1135,7 +1168,7 @@ dit landschap ook schijne, voor wie kijken wil, zijn er allerlei
 onderhoudende, belangrijke dingen te zien, al was het alleen maar in
 de vogelenwereld.
 
-Wie gewoon is zijne vogelstudiÃ«n tot b. v. een stadstuin te bepalen,
+Wie gewoon is zijne vogelstudiën tot b. v. een stadstuin te bepalen,
 zal hier verscheiden vreemdelingen ontmoeten. Let, om te beginnen,
 eens op dat kleine geelachtige beestje, dat op den paal van 't hek zit,
 waar wij door moeten. In gedaante en bewegingen komt hij geheel overeen
@@ -1178,7 +1211,7 @@ denzelfden toon herhaald: Kare-kare-karekiet-kare! Dat is het liedje
 en iets slanker dan een musch. Zijn stem is, voor mijne ooren, een
 tusschending tusschen die van een zangvogel en een kikvorsch; en,
 meer nog dan die van den kievit, het karakteristiek geluid van het
-vochtige hollandsche landschap. Als het ons Ã©Ã©ns getroffen heeft,
+vochtige hollandsche landschap. Als het ons ééns getroffen heeft,
 kunnen wij het niet kwijt raken, want werkelijk klinkt het ons altijd
 van den eenen of anderen kant te gemoet. Eenmaal, aan de Vecht bij
 Weesp, zag ik een karekietje, ter halverhoogte van een rietstengel
@@ -1200,7 +1233,7 @@ hem, op Texel, niet onaardig den naam van "kraagmaker" bezorgt. Dit
 vechten geschiedt in den paartijd, ofschoon niet altijd bepaald om een
 wijfje, soms ook om een insekt dat zij gevangen hebben, of wel zonder
 eenige zichtbare reden, uit louter jaloezie of vechtlust. De strijd
-heeft altijd twee aan twee plaats: zij zijn, in meer dan Ã©Ã©n opzicht,
+heeft altijd twee aan twee plaats: zij zijn, in meer dan één opzicht,
 het aangewezen zinnebeeld van het duel. Hun wapen is hun lange weeke
 snavel, die in de hitte van 't gevecht dikwijls zonderlinge kwetsuren
 bekomt, zoodat men bijna geen oud haantje vangt, dat daarop geen
@@ -1228,9 +1261,9 @@ dadelijk, door oningewijden, als een steltlooper te doen herkennen,
 zoo is hij er toch zonder twijfel een. Merkt slechts op hoe hij, bij
 het vliegen, de pooten achteruit steekt, in plaats van ze onder 't
 lichaam op te trekken.--Een raar ding toch, dat vliegen. Is het niet
-iets merkwaardigs, dat de achterpooten van een dier zÃ³Ã³ dun zijn,
+iets merkwaardigs, dat de achterpooten van een dier zóó dun zijn,
 dat zij bijna geen gewicht hebben, en bijna geen ruimte beslaan;
-en daarentegen zijne voorpooten zÃ³Ã³ sterk ontwikkeld en met dons en
+en daarentegen zijne voorpooten zóó sterk ontwikkeld en met dons en
 gesloten vederen begroeid, dat zij dienst doen kunnen als de zeilen
 van een schip? Dat daarbij de vorm van zijn borst en zijn gebeente hem
 vergunnen zich naar willekeur zwaarder of lichter te maken; en hij
@@ -1242,7 +1275,7 @@ nog altijd niet hebben leeren nadoen!...
 
 
            "Ik wou dat ik een vogel was,
-            Een vogeltje met veÃªren."
+            Een vogeltje met veêren."
 
 
 Zoo zingen de kinderen, en onder alle schoolversjes is dit een
@@ -1258,7 +1291,7 @@ in jaren?... Wee dengenen die geen vragen meer doen!
 Onze kievit heeft intusschen zijn wijfje opgeroepen; zij vliegen samen
 op een kleinen afstand om ons heen. Zij maken allerlei verschillende
 bewegingen, voeren als het ware een ballet in de lucht uit, en roepen
-allerhande variatiÃ«n op het thema kie-vit. Van vragen-doen gesproken:
+allerhande variatiën op het thema kie-vit. Van vragen-doen gesproken:
 wat beteekent die taal? Wat vertellen zij elkander? Zonder twijfel zien
 zij op dit oogenblik het gevaar waarin hun eieren verkeeren. Zij hebben
 dan ook alle reden om zich bang te maken, want de meester heeft het
@@ -1339,8 +1372,8 @@ vrij onverschillig. Heel mooi is een mol niet. Zij is het best te
 vergelijken bij een donkergrijs fluweel speldekussentje, met zes niet
 zeer bevallige uitsteeksels: een daarvan is de kop, (als van een varken
 in het klein) en een de staart; de vier anderen zijn de pooten. Die
-pooten zijn voor ons 't belangrijkst, Ã¨n om hun zonderlingen vorm,
-Ã¨n... omdat zij het zijn die middellijk de molsla leveren. In
+pooten zijn voor ons 't belangrijkst, èn om hun zonderlingen vorm,
+èn... omdat zij het zijn die middellijk de molsla leveren. In
 onderscheiding toch van gewone viervoetige dieren, heeft een mol,
 gelijk een mensch of aap, twee beenen om te loopen en twee handen om
 te werken. Die handen, als ik ze zoo noemen mag, hebben behalve haar
@@ -1400,9 +1433,9 @@ voortdurend een vriendschappelijke oorlog tusschen den leeraar in het
 teekenen en dien in plant- en dierkunde. De een verwijt den tweede
 het "onpraktisch" karakter van zijn lessen. De jongens hollen door,
 beweert hij, en letten op hetgeen zij op hun weg door de natuur
-ontmoeten slechts in zoover, als het hun de theorieÃ«n, waar men heen
+ontmoeten slechts in zoover, als het hun de theorieën, waar men heen
 wil, helpt bereiken; zij praten mee over de leer, die Darwin op zijn
-duiven-studiÃ«n bouwde, eer zij zelven, met hun eigen oogen, een tortel
+duiven-studiën bouwde, eer zij zelven, met hun eigen oogen, een tortel
 uit een houtduif kennen. De man der wetenschap nu kan dit laatste feit
 niet tegenspreken; hij vindt het jammer, maar hij troost zich daarmee,
 dat de groote zaak niet zoozeer is, den jongens in hun korten leertijd
@@ -1425,7 +1458,7 @@ belangstelling de botanische ontdekkingen bijhoud, waarbij o. a. de
 vorm der meeldraden van de "boldragende ranonkel" tot bewijs dient;
 indien ik oog en hart heb voor de schilderachtige legende, die de
 roode puntjes van de madelieven als met Held Siegfried's laatste
-bloed bezoedeld voorstelt; als, in Ã©Ã©n woord, mijn ooren open staan
+bloed bezoedeld voorstelt; als, in één woord, mijn ooren open staan
 voor al wat dichters en geleerden van dergelijk klein veldsieraad
 vertellen,--dan dank ik dat aan Hend, omdat deze de eerste geweest is,
 die mij met die bloemen zelven gemeenzaam en bevriend gemaakt heeft!
@@ -1475,7 +1508,7 @@ eindeloos herhaalde woorden, die hun vroolijke stemmetjes uitgalmen,
 vertegenwoordigen het daverend "Hosanna", dat in zeker onvergetelijk
 drama zoo kort aan het "Kruist hem" voorafging!
 
-Ik herinner mij een schilderachtig gedichtje van GÃ¶the, waarin
+Ik herinner mij een schilderachtig gedichtje van Göthe, waarin
 verhaald wordt hoe in 't Vatikaan, te Rome, op Palmzondag, echte
 palmtakken gebruikt worden, om daar mee te wuiven, wanneer de
 kardinaals voor 't altaar buigen en oude psalmen zingen; hoe in
@@ -1485,7 +1518,7 @@ met hulst moet behelpen; en hoe elders in de vlakte ten slotte
 wilgenteentjes dienst doen.--Ook bij ons in 't Noorden moest
 natuurlijk, zoodra het vieren van de palmprocessie ingevoerd werd,
 een of ander soort van groen voorhanden wezen. Maar welk groen vindt
-men hier doorgaans in de week vÃ³Ã³r Paschen? Zelfs de wilgen zijn dan
+men hier doorgaans in de week vóór Paschen? Zelfs de wilgen zijn dan
 nauwlijks uitgebot. 't Moest dus wintergroen zijn. Klimop? is zoo
 slap. Naaldhout? zoo stekelig. Liguster? laat zoo licht zijn blaadjes
 vallen. De buksboom met zijn stijve takken bleek weldra het best voor
@@ -1541,7 +1574,7 @@ Meester Linnaeus heeft eens, half als spel der fantazie, half als zeer
 gewaagde poging om, langs een esthetischen weg, tot eene natuurlijke
 rangschikking der planten te geraken, een standen-verdeeling van
 de "Ingezetenen des Plantenrijks" beproefd. In deze teekenachtige
-indeeling, die op naÃ¯eve wijs den stempel van haar tijd draagt, en
+indeeling, die op naïeve wijs den stempel van haar tijd draagt, en
 in onze demokratisch-wetenschappelijke eeuw, om meer dan eene reden,
 met een glimlach ontvangen zou worden, noemde hij:
 
@@ -1576,7 +1609,7 @@ op stelen en rooven. Zij komen in den herfst te voorschijn, dus als
 Op dit tooneel nu figureeren de Bolplanten als "Hovelingen,
 pralende met heerlijke statiekleederen, om tot glorie van het
 Rijk te strekken."--Fraai uitgedost zijn zij, dat is zeker, al die
-schitterende LeliÃ«n en Tulpen, Ixia's en Narcissen, al die prachtige
+schitterende Leliën en Tulpen, Ixia's en Narcissen, al die prachtige
 soorten van Gladiolus, Haemanthus, Amaryllis, al die bevallige
 Scilla's, Frittellaria's en Cyclamens. En ondanks hun rijkdom van
 verscheidenheid, hebben deze allen een sterksprekend gemeenschappelijk
@@ -1593,7 +1626,7 @@ maanden lang als kiem, zonder merkbare ontwikkeling, opgesloten lagen!
 
 De bladvorm heeft bij allen een sterken familietrek: lange lint- of
 zwaardvormige bladeren, met gladde kanten, en overlangsche nerven,
-zonder eenig spoor van dwars- of schuinsliggende adertjes: in Ã©Ã©n
+zonder eenig spoor van dwars- of schuinsliggende adertjes: in één
 woord, gras in 't grof. Hoe al wat bollen draagt ook boven den grond
 overeenkomst heeft, bewijst het voorbeeld van de uien; het zou mij
 niet verwonderen, als iemand bij vergissing een tulpenbol en een
@@ -1606,8 +1639,8 @@ van Hovelingen, Vrijmetselaars te noemen). Ziet de tweemaal-drie
 blaadjes der Sneeuwklokjes, de zes slippen van een Hyacinthen-nagel,
 de sierlijke driehoekigheid der groote witte Irissen, die zwanen onder
 de bloemen! Ook de inwendige organen doen mede aan dien regel van
-drieÃ«n. Overal vindt gij, indien de bloem normaal (niet gevuld) is,
-drie of zes meeldraden, en drie vruchtbeginseltjes; of Ã©Ã©n driehoekig,
+drieën. Overal vindt gij, indien de bloem normaal (niet gevuld) is,
+drie of zes meeldraden, en drie vruchtbeginseltjes; of één driehoekig,
 zooals in Tulpen.
 
 De hoorn des overvloeds, verborgen in den onuitputtelijken zak van
@@ -1667,8 +1700,8 @@ terwijl de witte, licht- en donkerroode tulpen zelven er schitterend
 boven uit staken. Dat sommigen den zonneschijn met wat meer moeite
 zoeken moesten dan de anderen, deed ze een weinig hooger opschieten;
 en daardoor werd van zelf reeds de eentonigheid gebroken, aan de meeste
-bollenperken eigen. Het geheel was in Ã©Ã©n woord zÃ³Ã³ teekenachtig,
-Ã¨n wat lijnen Ã¨n wat kleuren aangaat, en het deed zoozeer denken aan
+bollenperken eigen. Het geheel was in één woord zóó teekenachtig,
+èn wat lijnen èn wat kleuren aangaat, en het deed zoozeer denken aan
 de schoonheid die een tulp in haar natuurlijke omgeving--ik meen, in
 haar vaderland--hoogst waarschijnlijk zal hebben, dat het verdiende
 als model te worden aangegrepen door elk, wiens smaak een weinig
@@ -1712,16 +1745,16 @@ en die liederen schiep, was in zeker opzicht veel wijzer dan wij
 zijn; hij mat het Meigenot niet naar de hoeveelheid, maar naar de
 hoegrootheid. Wij tellen, angstig en bekrompen, de schoone dagen,
 avonden, halfuren, die de Mei ons aanbrengt. Is dat genot te tellen,
-of te meten? 't Is een prozaÃ¯sch, een huisbakken element, dat ooit
+of te meten? 't Is een prozaïsch, een huisbakken element, dat ooit
 eenige weelde--welke ook--naar hoeveelheid berekent! Ons beter
 deel,--de dichter in ons,--weet wel anders. Hij weet dat daar geen
 sprake is van tijd, maar van diepte; niet van langer of korter, maar
 van een min of meer machtigen indruk. En of de Mei nu drie- of viermaal
 heeft geglimlacht in zijn 31 dagen, doet er weinig of niets toe, mits
-elk onzer slechts Ã©Ã©n oogenblik dien lach heeft weten op te vangen,
-zÃ³Ã³ dat hij ons door merg en been, door ziel en zinnen heendrong,--zÃ³Ã³
+elk onzer slechts één oogenblik dien lach heeft weten op te vangen,
+zóó dat hij ons door merg en been, door ziel en zinnen heendrong,--zóó
 dat nog maanden achteraan onze verbeelding tintelt bij de herinnering,
-en ons hart opengaat bij het hooren van het Ã©Ã©ne woord: Lente!
+en ons hart opengaat bij het hooren van het ééne woord: Lente!
 
 De vaderen plachten hunne Meifeesten te vieren; en de overlevering
 brengt verhalen van de vreugd die daar gesmaakt werd, welke ons,
@@ -1731,7 +1764,7 @@ altijd de zon geschenen hebben op die landelijke danspartijen, en
 de lucht zoel geweest zijn juist op den 1sten of den 21sten Mei,
 en de noordoostewind de takken op de Meiwagens ontzien hebben? Soms
 wel, soms niet: ten naastenbij als tegenwoordig. Maar het feest was
-eenmaal dÃ Ã r; en verreweg de meeste feestgenooten waren sterk van huid
+eenmaal dààr; en verreweg de meeste feestgenooten waren sterk van huid
 en zenuwen; en de hartstocht der werkelijkheid was niet altijd zoo
 wakker in hen, of onder al het nieuwe wat op zoo'n dag hun fantazie
 beheerschte, vergaten zij gemakkelijk den ouden regen of de maar al
@@ -1741,14 +1774,14 @@ feestelijkheden; maar dan doorgaans bij een ander publiek, dan 't
 geen mij de eer aandoet om deze mijne schetsjes te lezen!
 
 Doch ook voor den meest verfijnden negentiende-eeuwer zijn Meifeesten
-weggelegd,--even plechtig als men 't zich van DruÃ¯den-priesters, even
+weggelegd,--even plechtig als men 't zich van Druïden-priesters, even
 jolig als men 't zich van middeleeuwsche poorters voorstelt. Mits
 hij zelf bereid zij, zal het Meiweer wel komen! Maar het komt
 onverwachts. Somtijds springt het over de grenzen en komt in April
 of in Juni: ook die gril moet men nemen zooals 't valt.
 
 Heden is het gekomen. Ik kan niet nalaten, aan uw venster te
-kloppen. Ruim uw werk op en ga mÃªe. Er zullen gure dagen genoeg
+kloppen. Ruim uw werk op en ga mêe. Er zullen gure dagen genoeg
 aanbreken, waarop ge kunt lezen, schrijven, boekhouden, visites
 doen, schoonmaken of naaien. Een dag als deze is zoo goed als een
 heiligendag.
@@ -1761,7 +1794,7 @@ elkander zoo naief ontmoeten: waar kleine kinderen met gras en jonge
 lindeblaadjes spelen, en opgeschoten meisjes al schrobbend zingen,
 met de lijsters om het hardst. Of ga wat verder, waar gij 't oog hebt
 op de tuinen in den omtrek, waar de hagedoorns bloeien, en waaruit u
-nu de Ã©Ã©ne, straks een andere geur te gemoet komt, die u doet denken
+nu de ééne, straks een andere geur te gemoet komt, die u doet denken
 aan,--ja aan....? Gij weet het zelf niet...--zeker aan een vroegeren
 Mei.--Of wel, waag u eens even aan den waterkant, en verdiep u in het
 duizendvoudig leven, dat daar tiert en wemelt: kruipend, zwemmend,
@@ -1786,7 +1819,7 @@ teleurstellingen, uwe plannen, uwe wenschen, uw hoop. Zoek ongestoord
 de woorden om u zoo juist mogelijk uit te drukken: ik heb geduld,
 ik luister. En als gij ze niet langer vinden kunt,--welnu, dan voel
 ik met u mee, hoe wenschelijk het is om altijd nog een overschotje van
-bewustzijn te hebben, boven dat uit, wat zich reeds als denkbeeld weÃªr
+bewustzijn te hebben, boven dat uit, wat zich reeds als denkbeeld weêr
 laat geven. Maakt u de Mei bewegelijk of stil? Stemt zij u tot juichen,
 als om strijd met de vinken; of dringt zij u terug in u zelven? Bezielt
 zij u onmiddellijk met denzelfden drang tot werkzaamheid en leven,
@@ -1795,7 +1828,7 @@ onbereikbare dingen? Beiden zijn begrijpelijk; in beiden kan een schat
 van levenslust en van ontwikkeling besloten liggen. Met beiden zou ik u
 geluk wenschen. Voor beiden heeft Mei raad. Die raad--ik meen wijding
 voor de opgewektheid, ontspanning voor den weemoed--lag van oudsher
-in samenstemming met de edelste, beminnelijkste aller fantazieÃ«n,
+in samenstemming met de edelste, beminnelijkste aller fantazieën,
 ooit aan de dichterziel der menschheid ontsproten: dankbaarheid
 jegens een verborgen Maker, die de lente en hem die haar liefheeft,
 naast elkander voortbracht. Verheug u, zoo de tooveresse Mei u doet
@@ -1829,7 +1862,7 @@ heerlijkheid voor mijne oogen uit.
 
 Het kasteel te Windsor is een geheel eigenaardig gebouw. Velen onzer
 hebben waarschijnlijk wel hier of daar oude kasteelen gezien, maar dan
-waren die doorgaans Ã²f tot bouwvallen afgebrokkeld, Ã²f tot gevangenis,
+waren die doorgaans òf tot bouwvallen afgebrokkeld, òf tot gevangenis,
 wapenhuis of iets dergelijks gedegradeerd. Een oud versterkt slot
 echter, zoo geheel in zijn middeleeuwsch karakter bewaard, en nochtans
 zoo goed onderhouden en keurig ingericht, als voor de woonplaats
@@ -1849,7 +1882,7 @@ dan bijzonder aardig, om van den hoogen "ronden toren", dien men ten
 allen tijde mag beklimmen, op de ruime binnenplaats neer te zien,
 de vuren in de bewoonde appartementen te zien flikkeren, de warmte
 der schoorsteenen te voelen, hofrijtuigen en voorrijders af en aan te
-zien rijden, in Ã©Ã©n woord een blik te slaan in het groote huishouden
+zien rijden, in één woord een blik te slaan in het groote huishouden
 beneden.
 
 Maar van dat standpunt is meer genot te smaken, dan wat sommigen
@@ -1871,7 +1904,7 @@ van alle natuurschoon beroofd. Wat ons in Engeland aantrekt, is het
 gezellige, parkachtige, dat het aanzien van zijn beste landstreken
 kenmerkt, en waardoor geheele graafschappen, met inbegrip van hunnen
 landbouw, hun dorpen en hunne heerlijke buitenverblijven, als naar
-Ã©Ã©n samenhangend plan schijnen te zijn aangelegd. Als men goed kijkt,
+één samenhangend plan schijnen te zijn aangelegd. Als men goed kijkt,
 spelen drie dingen daarbij eene hoofdrol. Vooreerst de natuurlijke
 zachte glooiing der terreinen; bijna overal beweegt men zich tusschen
 heuvelen en dalen, niet hoog en diep genoeg om eenigerlei storing
@@ -1888,8 +1921,8 @@ zooveel kubiekmeters akkermaalshout: maar prachtexemplaren van iepen,
 eiken, eschdoorns en kastanjes, zooals men die in Engeland pleegt aan
 te treffen, vindt men hier slechts hoogst zelden. Men is er bij ons,
 zoowel als in Duitschland en Frankrijk, al te weinig op bedacht een
-boom zÃ³Ã³ te planten, dat hij, onbelemmerd, naar alle kanten uit kan
-groeien en zijn grootsten omvang bereiken: Ã©Ã©n blik op eenige engelsche
+boom zóó te planten, dat hij, onbelemmerd, naar alle kanten uit kan
+groeien en zijn grootsten omvang bereiken: één blik op eenige engelsche
 landschap-gravures kan ons toonen hoezeer wij daarin bij de Engelschen
 ten achteren zijn. Dit een en ander kenschetst het karakteristieke
 van hun landschappen. En indien men dan ten overvloede een rivier
@@ -1921,7 +1954,7 @@ hotelstraat, welks ronding die van den muur van het slot volgt,
 laten een niet onaangenamen indruk na. Wie een kerk wil bezoeken,
 late zich de slotkapel binnenleiden; en lette daar vooral op het
 schoone witmarmeren praalgraf van Prinses Charlotte (eerste gemalin
-van koning Leopold I van BelgiÃ«).--Maar vlak tegenover Windsor,
+van koning Leopold I van België).--Maar vlak tegenover Windsor,
 door een fraaie Theemsbrug daarmede verbonden, ligt het niet veel
 grootere stadje Eton; en evenals te Windsor het kasteel, maakt te Eton
 het wereldberoemde college het middelpunt van het verkeer uit. Hebben
@@ -1982,7 +2015,7 @@ Thans is de beurt aan onze inlandsche vruchtboomen. De perenboomen
 zijn reeds "als met een wit laken overdekt"; en hun eigenaars
 worden geslingerd tusschen welbehagen over dat rijke gezicht, en
 angst voor ieder oostenwindje dat vorst of "zwarte vlieg" zou kunnen
-aanbrengen. (Tusschen twee haakjes zij gezegd, dat deze bÃªte noire geen
+aanbrengen. (Tusschen twee haakjes zij gezegd, dat deze bête noire geen
 "vlieg" is, maar een kevertje.) En nog een dag of tien, en 't zachte
 rood der appelbloesems zal, voorlooper van 't later rood der rozen,
 aan duizend tuinen een feestelijk, echt lenteachtig aanzien geven.
@@ -2000,7 +2033,7 @@ en die mevrouw De Stael, bij hare komst "en Allemagne", vervulden met
 een grenzenloozen eerbied voor de eerlijkheid der Duitschers, toen
 zij hoorde dat het grootste deel der vruchten daaraan wezenlijk bleef
 hangen tot het rijp was!--En denk dan aan de "snoeren en palmetten",
-de "spiraal- en vleugel-piramiden"; in Ã©Ã©n woord aan die zonderlinge
+de "spiraal- en vleugel-piramiden"; in één woord aan die zonderlinge
 waaiers en ladders en rechthoekige figuren, zooals de heer de Beucker
 ze invoerde, boompjes welke meer aan Araucaria- of Cactusvormen,
 dan aan hunne eigene eenvoudige stamgenooten herinneren.
@@ -2016,13 +2049,13 @@ in te brengen. Wie voortaan eigen appelen en peren eten wil, kieze
 uit de honderden op eene prijslijst voorkomende nummers die, waarvan
 hij den geurigen smaak heeft ondervonden, of wel enkelen waarvan
 de namen hem bijzonder prikkelen, (als daar zijn: Adams pearmain;
-Beefsteak; Newtons pippin; Weissbrod; Calville d'Eve; RÃ©publicain;
-Drie torenpeer; Napoleon-Bon-ChrÃ©tien; CurÃ© Belle HÃ©loise; Pie IX;
+Beefsteak; Newtons pippin; Weissbrod; Calville d'Eve; Républicain;
+Drie torenpeer; Napoleon-Bon-Chrétien; Curé Belle Héloise; Pie IX;
 Saint-Michel-Archange!) en ik wensch hem voorspoed op zijne plantage.
 
-Maar wie Ã©Ã©ns in het jaar, Ã©Ã©ns in de Ã©Ã©ne veertien dagen gedurende
+Maar wie ééns in het jaar, ééns in de ééne veertien dagen gedurende
 welke een appel- of pereboom schoon is, waarlijk al de weelde van den
-teÃªren bloesem wil genieten, die brenge--waar hij ze slechts weet
+teêren bloesem wil genieten, die brenge--waar hij ze slechts weet
 te vinden, al is het op een schamel erfje, tusschen schuttingen en
 bleekveldjes--een visite aan de oude, groote boomen van zijn kennis,
 't zij zij Juttepeer heeten of Sapperdegroentje, of de grofste
@@ -2062,7 +2095,7 @@ bloemen bijna zonder steel af te snijden, ze dan elk op een rietje te
 steken en, met een paar bladeren er om, bijeen te binden. Het voordeel
 hiervan ligt voor de hand. Op deze wijze toch kan men alle bloemen,
 die een plant oplevert, gebruiken, zonder de nog onontloken knoppen
-meÃª weg te knippen, en behoeft er ook volstrekt niet op te letten of
+meê weg te knippen, en behoeft er ook volstrekt niet op te letten of
 de plant in haar geheel goed uitgegroeid is: elk frisch puntje, zij
 het van een nog zoo krom of verlept lot, is bruikbaar. Van lieverlede
 nu is deze handgreep ook overgegaan op grooter en kostbaarder, uit
@@ -2072,12 +2105,12 @@ bloemen dicht tegen elkaar gepakt dienen te worden, (ten eerste om de
 kortheid der stelen, en ten andere om de rietjes te bedekken), was men
 vindingrijk genoeg, om van zoo'n vlak of bol een soort van mozaiek
 te maken. Wij kennen allen de patronen, die bij dit knutselwerk het
-meest in zwang zijn: b. v. Ã©Ã©ne groote bloem in 't midden, dan een
+meest in zwang zijn: b. v. ééne groote bloem in 't midden, dan een
 kringetje groen, daar omheen weer een randje van een andere kleur,
 enz. Soms worden er ook letters en cijfers in gewerkt, zooals ik het
 onlangs in een zilveren-bruilofts-bouquet zag bewonderen: het getal 25,
 uit knoppen van oranjebloesem samengesteld, midden in een groot vlak
-van rozenknoppen en rozen.--EÃ©n bezwaar had zich voorgedaan: Terwijl
+van rozenknoppen en rozen.--Eén bezwaar had zich voorgedaan: Terwijl
 in de centsruikertjes de rietjes zeer gemakkelijk verborgen werden,
 bleek dit bij de grootere bouquetten (waarin het rietwerk gaandeweg tot
 een vrij ingewikkelde stellaadje aangegroeid was!) vrij wat moeielijker
@@ -2086,7 +2119,7 @@ jaren de welbekende bordpapieren kokers met uitgeslagen randen, een
 belangrijk onderdeel van de kartonwerkerij geworden. Menig minnaar,
 die zijn bruid op haar verjaardag een "hand-" of "vaasbouquet" wil
 sturen, zou dien niet gaarne zonder zoo'n geijkten witten driehoek zien
-bezorgen, maar misschien zeer geÃ«rgerd wezen, als men hem vraagde,
+bezorgen, maar misschien zeer geërgerd wezen, als men hem vraagde,
 waarom hij zulk een op een goedkoopje gefabriceerden bouquet had
 besteld. En menig bruidje, dat zoo'n "porte-bouquet" aanneemt, en
 niet gaarne zou willen, dat men aan haar goeden smaak twijfelde,
@@ -2103,12 +2136,12 @@ zeer licht iets beters "in de mode" kunnen brengen. Zeer geschikt zou
 hij daartoe gebruik kunnen maken van den heerschenden eerbied voor al
 wat oud-hollandsche kunst heet, zich beroepen op het oordeel onzer oude
 schilders, en b.v. op de eerste de beste tentoonstelling, in een grijze
-terra-cotta vaas van eenvoudig model, een groot bouquet Ã  la van Huysum
+terra-cotta vaas van eenvoudig model, een groot bouquet à la van Huysum
 ter tafel kunnen brengen. Het Trippenhuis of eene andere verzameling
 van schilderijen zou licht een voorbeeld leveren, dat men in hoofdzaak
 na kon volgen, vooral daar toch die hoofdzaak in niets anders bestaat,
 dan in de eischen der natuur zelve. Zij--en van Huysum!--stellen op den
-voorgrond, dat men alle schoonheid van de bloemen eere: niet allÃ©Ã©n de
+voorgrond, dat men alle schoonheid van de bloemen eere: niet alléén de
 kleuren van haar kroontjes, maar ook de sierlijkheid, waarmee zij, op
 haar stengel wiegend, zich verheffen of neerhangen; den rijkdom harer
 vormen, in verband met de plant, die haar voortbracht; het kontrast
@@ -2117,7 +2150,7 @@ meer zorg, in elk geval meer kunst-smaak, zulk een bouquet te maken,
 dan een waarbij papier en riet te hulp komen. Daartoe toch kan men
 slechts volkomen gave takken, trossen, pluimen nemen, en ten tweede is
 die schikking niet gemakkelijk. Tusschen artistieke losheid en zeer
-alledaagsche slordigheid is slechts Ã©Ã©n zeer klein stapje; en teÃªre,
+alledaagsche slordigheid is slechts één zeer klein stapje; en teêre,
 levende, dorstige bloemen zijn een gevoelig, lastig materiaal. Soms,
 als de bloemen zelven handelbaar zijn, is het groen weerspannig; en er
 wordt takt en oefening vereischt, om daarvan juist zooveel te kiezen,
@@ -2216,9 +2249,9 @@ geschiedde wist men niet te verklaren. De wind kreeg er meestal den
 dank voor; en bij vele boomen, waar het stuifmeel zeer vluchtig is,
 en de stempeltjes zeer weinig bedekt zijn, doet hij in dit opzicht
 ontegenzeglijk groote diensten. Maar weldra begon men te bemerken
-dat er plantengeslachten bestaan (b. v. de OrchideeÃ«n) waarbij
-de stuifmeelklompjes zich zÃ³Ã³ moeielijk laten verplaatsen en de
-stempeltjes zÃ³Ã³ diep zijn verborgen, dat het zonder medewerking van
+dat er plantengeslachten bestaan (b. v. de Orchideeën) waarbij
+de stuifmeelklompjes zich zóó moeielijk laten verplaatsen en de
+stempeltjes zóó diep zijn verborgen, dat het zonder medewerking van
 buiten onmogelijk was, dat die beide organen met elkander in aanraking
 kwamen. Het waren dan ook vooral zulke planten, die den Duitscher
 Spengler het eerst tot zijn ontdekking van de hulp der insekten
@@ -2257,7 +2290,7 @@ die kultuur worden opgegeven.
 
 Een ander sterksprekend voorbeeld. Men kent algemeen de Aucuba, met
 haar groenblijvende gevlekte bladeren, een sieraad van grootere en
-kleinere tuinen. Elk weet dat daarvan tweeÃ«rlei exemplaren bestaan:
+kleinere tuinen. Elk weet dat daarvan tweeërlei exemplaren bestaan:
 met witte bloemen, die nooit vruchten dragen, omdat zij wel stuifmeel,
 maar geen vruchtbeginsel bevatten, en anderen, met zeer onaanzienlijke
 paarsachtig-bruine bloempjes, die mooie helder-roode vruchten
@@ -2333,14 +2366,14 @@ jonge groen"; en de lijsters zingen daarin, zoo niet de nachtegalen,
 en juichen om het mooie weer.
 
 Onwillekeurig hebben wij gaandeweg een ruikertje verzameld, en zijn,
-al bloemen zoekend, van het Ã©Ã©ne pad in het andere gedrenteld. Eerst
+al bloemen zoekend, van het ééne pad in het andere gedrenteld. Eerst
 was het, op een open plek, de allerliefste blauwe eereprijs die ons
 lokte; daarna viel ons een menigte van bloemen in het oog, melkwit met
 groene strepen, die ons, wat de kleur betreft, aan sneeuwklokjes, maar
 door haren vorm aan crocussen deden denken, en die den zonderlingen
 naam van "vogelmelk" dragen. Ginds werd onze blik getrokken door een
 helder paarse kleur, als van viooltjes; het was een veld bedekt met
-de fraaiste der inlandsche orchideeÃ«n, de kleine "harlekijn". Wij
+de fraaiste der inlandsche orchideeën, de kleine "harlekijn". Wij
 weten het niet recht, maar wij beginnen te vermoeden dat wij binnen
 de omheining van een oude buitenplaats zijn; het nette onderhoud der
 paden, de meer park- dan boschmatige aanleg versterkt ons telkens
@@ -2352,7 +2385,7 @@ voor iets heel ongewoons staan....
 Op een terrein, niet grooter dan een groote zaal, van voren en
 van achteren door dicht geboomte afgesloten, was door middel van
 hoogere en lagere lindenhagen iets gemaakt, wat wij weldra voor een
-boschtooneeltje herkenden. De Ã©Ã©ne helft althans, een weinig meer
+boschtooneeltje herkenden. De ééne helft althans, een weinig meer
 opgehoogd dan de andere, was door die groene schermen geheel tot
 tooneel ingericht; terwijl de andere helft, voorzien van zodenbanken,
 en door het bladerdak van een kastanjeboom tegen de zon beschut,
@@ -2372,7 +2405,7 @@ bekrompen!" "Hoe kleingeestig!"
 "De pruikentijd in levenden lijve!" bracht iemand in het midden. "De
 bloeitijd van het dilettantisme op alle mogelijk gebied. Mij dunkt,
 je hoort al in verbeelding de produkten van den een of anderen
-prulpoÃ«et opgalmen, die de heele grieksche mythologie er bij haalt,
+prulpoëet opgalmen, die de heele grieksche mythologie er bij haalt,
 om den 50sten verjaardag van den heer van 't dorp, of de bruiloft
 van diens dochter te vieren. Gelukkig dat wij dien tijd te boven zijn!"
 
@@ -2381,7 +2414,7 @@ heel aardig bleven vinden. Ondanks mijn afkeer van geschoren hagen
 "als zoodanig", vond ik ze hier zoo geestig aangebracht, dat ik er
 niets tegen kon hebben, en ik deed mijn best om den pruikentijd te
 verdedigen, of althans de gissing te wagen, dat zij, wat betreft de
-gave om feesten te organiseeren, iets bij den onzen vÃ³Ã³r had. Het
+gave om feesten te organiseeren, iets bij den onzen vóór had. Het
 valt mij in hoe Van Lennep die verdediging ergens heeft op zich
 genomen, en ik kan niet laten iets van 't geen hij daaromtrent zegt,
 in herinnering te brengen.
@@ -2411,8 +2444,8 @@ van verschillende kleur elkaar in gezelschappen ontmoetten,--men had
 de welvoegelijkheid, niet altijd en overal over politieke vraagpunten
 te twisten. Enfin, men wist toen nog te "praten", wat de Franschen
 causer noemen; een kunst, die zoo goed als verloren schijnt, en
-door het verdwijnen waarvan de gezelschapskringen ontaard zijn Ã²f
-in dispuutcollegiÃ«n, Ã²f in een vervelend gewauwel over dienstboden
+door het verdwijnen waarvan de gezelschapskringen ontaard zijn òf
+in dispuutcollegiën, òf in een vervelend gewauwel over dienstboden
 en modewinkels. Niet, dat men toen ook niet somtijds over zeer
 onbeduidende dingen sprak; maar over al wat men zeide was een zeker
 waas van bevalligheid verspreid, dat alleen verkregen wordt door eene
@@ -2445,7 +2478,7 @@ natuurkundige wetenschappen?
 Stel een jongen Dr. phil., die na zijn promotie een plaats als
 leeraar aan een hoogere burgerschool aanvaard heeft. Hij doet dit
 liever dan, op omstreeks dezelfde voorwaarden, medewerkend deelgenoot
-in een industriÃ«ele zaak te worden, omdat hij zich nu meer aan zijn
+in een industriëele zaak te worden, omdat hij zich nu meer aan zijn
 wetenschap kan wijden. Nog liever was hij assistent geworden bij den
 een of anderen professor, omdat hij dan nog meer in die wetenschap
 had kunnen opgaan. De wetenschap, zijn vak van wetenschap namelijk,
@@ -2510,7 +2543,7 @@ wakker te tooveren. Wie anders stom tegenover elkander zitten, hetzij
 uit botheid of uit loomheid, of wel uit angst om zich bespottelijk te
 maken, worden onder zijnen invloed spraakzaam, en ontwikkelen talenten
 die men niet in hen vermoed had. Vlug van begrip, is hij goed op de
-hoogte van alles wat er om hem heen geschiedt; ofschoon in geen Ã©Ã©n
+hoogte van alles wat er om hem heen geschiedt; ofschoon in geen één
 kunst of wetenschap iets meer dan "dilettant", heeft hij oog voor
 het belangrijke in alles, en een grooten takt om daarvan partij te
 trekken ten bate van het gezelschap. In tegenstelling met al wat er
@@ -2525,14 +2558,14 @@ maar hij voelt bij ondervinding, dat een mensch, om waarlijk te
 genieten, op den duur nog iets anders noodig heeft dan "pret". Hij
 ontwijkt volstrekt niet de diepere zijde, die bij elke feestelijkheid
 kan opgewekt worden; hij trotseert de kansen van bespot te worden,
-als hij zorgt, dat ook de ernst zijn deel krijgt, en als hij teÃªre
+als hij zorgt, dat ook de ernst zijn deel krijgt, en als hij teêre
 snaren aanroert, of aan weemoedige gevoelens, die in de aanwezigen
 rondwoelen, een ontspannende uiting bereidt. Hij kent de weelde van
 zulk een oogenblik van wijding; hij weet dat een mensch zich bedriegt,
 die meent dat plechtigheid het tegendeel van vreugd is; hij voorziet
 dat de traan, die nu opwelt in de oogen, straks ten goede zal komen
 aan den hartelijksten lach der vroolijkheid. En die vroolijkheid is
-onder zijn bestuur zÃ³Ã³ vroolijk, dat de deftigste lieden vergeten te
+onder zijn bestuur zóó vroolijk, dat de deftigste lieden vergeten te
 bedenken of vroolijkheid wel deftig genoeg is....
 
 Die beelden doemden voor mij op in het amphitheater van het
@@ -2598,8 +2631,8 @@ Gij vindt er zonder twijfel in den loop van den zomer Verbena's,
 wier fraaiheid stellig beter gewaardeerd zou worden, als zij maar een
 beetje geur hadden; Lathyrussen tegen stokjes gebonden; Escholtzia's,
 wier helder goudgeel menigeen doet glimlachen bij de bedenking dat
-zij uit het "goud-land" CaliforniÃ« afkomstig zijn; Hanekammen, die een
-nieuwe jeugd zijn ingetreden door de nieuwe variÃ«teiten, die er onlangs
+zij uit het "goud-land" Californië afkomstig zijn; Hanekammen, die een
+nieuwe jeugd zijn ingetreden door de nieuwe variëteiten, die er onlangs
 weder van in omloop gebracht zijn; Symphytums,--de gewone inlandsche
 "smeerwortels" in gala-tenue; Verbascums, in het wild bekend onder den
 naam van "stalkaars", en Achillea's onder dien van "hazegerf". Voorts
@@ -2649,7 +2682,7 @@ AAN DE NOORDZEE.
 Dezer dagen is aan de zee, te Scheveningen, te Zandvoort, en te
 Domburg,--en wat wilt gij er nog meer bij noemen?--het "badseizoen"
 weer begonnen, en de tijd aangebroken, waarop, althans aan de beide
-eersten, verschillende natiÃ«n elkander aan ons strand ontmoeten.
+eersten, verschillende natiën elkander aan ons strand ontmoeten.
 
 Nu zijn de drukke dagen nog niet daar: de levendigste tijd is Juli,
 Augustus, September; de vroegste gasten verschijnen op het eind
@@ -2665,14 +2698,14 @@ zuidwester, met uw blik, die zoo dof schijnt, maar zoo geestig zijn
 kan! Houdt u goed te midden van dien zwerm vreemden, onder wier
 nieuwsgierige of geblazeerde oogen gij sinds jaren zoo rustig uw
 bedrijf uitoefent, alsof zij er niet waren. Neemt steeds zoo weinig als
-het zijn kan over van die heeren en dames, wier geurige parfumerieÃ«n
+het zijn kan over van die heeren en dames, wier geurige parfumerieën
 u dagelijks om den neus waaien; behoudt uw eigen aard, zelfs al
 verkoopt gij hun uw speldenkussentjes met schelpen, of al leent gij
 hun, als "badman" en "badvrouw", de hulp van uw gespierde armen. Laat
 hen liever gevoelen dat zij iets van u hebben over te nemen. Want
 waarlijk, gij zijt hunne meerderen, in zooverre gezondheid de meerdere
 is van ziekelijkheid; gij staat boven hen, zoover als inspanning en
-arbeidslust staan boven niets-doen, leÃªgloopen en luieren!
+arbeidslust staan boven niets-doen, leêgloopen en luieren!
 
 Niemand zal mij tegenspreken, dat dit laatste zoowat de dagverdeeling
 van de meeste badgasten is, ook al zijn zij niet bepaald ziek.--Hoe
@@ -2693,7 +2726,7 @@ men ziet en geniet.
 
 Zonderling, dat zij zulk eene toovermacht op ons kan uitoefenen,
 die zee, die vale Noordzee, met dat meestal vale zwerk daarboven,
-en dat vale zandvlak daarvÃ³Ã³r, en die zandige heuvelen, slechts
+en dat vale zandvlak daarvóór, en die zandige heuvelen, slechts
 met vaal helm begroeid, als afsluiting van 't landschap! Ginds in
 de verte stoomt een boot voorbij; nog verder aan den horizont telt
 gij een twintigtal pinken; achter u verheffen zich de badgebouwen,
@@ -2708,11 +2741,11 @@ kranken, maar niet minder gezonden, jaarlijks in zulk een groot aantal
 derwaarts? Wat maakt dat onze zeebaden geen speelbank noodig hebben
 om bevolkt te blijven?
 
-Vertoef er slechts Ã©Ã©n of twee dagen, en gij zult het voelen en
+Vertoef er slechts één of twee dagen, en gij zult het voelen en
 begrijpen.
 
 Vooreerst doet het de zee, door hetgeen zij niet is. Zij is namelijk
-zÃ³Ã³ geheel iets anders dan het tooneel van ons dagelijksch leven en
+zóó geheel iets anders dan het tooneel van ons dagelijksch leven en
 werken, dat haar aanblik ons reeds daardoor eene onvergelijkelijke
 verfrissching bezorgt. Zij is niet het land, met al wat daarop groeit
 en vaststaat, en waarmee ons alledaagsch bestaan op de eene of andere
@@ -2722,14 +2755,14 @@ niets te zien geeft,--niets dan zand en fletse gewassen,--slechts
 mede om dien indruk te versterken. Het vage, golvende karakter van
 alles om ons heen, geeft ons reeds onbewust de zekerheid, dat wij
 hier niet met menschenwerk te doen hebben; het dichtste bosch, de
-wildste bergpartij doen ons niet zÃ³Ã³ volop gevoelen, dat wij allÃ©Ã©n
+wildste bergpartij doen ons niet zóó volop gevoelen, dat wij alléén
 met "de natuur" zijn. Zelfs de heide niet, want de heide is vast,
 en de zee is eeuwig bewegelijk.
 
 En de zee treft ons ook wel degelijk door hetgeen zij wel is: door de
 eindeloos afwisselende schoonheid, die zonneschijn en wolkenschaduwen
 op haar te weeg brengen; door het spel der rimpels op haar spiegel,
-of het klotsen van de baren vÃ³Ã³r, in en na een storm. En is er,
+of het klotsen van de baren vóór, in en na een storm. En is er,
 voor wie dieper doordringt, niet nog grootscher bekoring verscholen
 in haar eigene gestadige rijzing en daling,--in dien vloedgolf,
 die zoo rustig komend en weer heengaand, getuigt van eene kracht,
@@ -2773,7 +2806,7 @@ gindsche visschers, die bezig zijn iets aan hun pink te timmeren,
 eens op aan, hoeveel gevaren het zeeleven meebrengt; en gij krijgt
 sympathie voor hunne avonturen. Onwillekeurig raapt gij af en toe een
 schelp op of een horentje, afgelegde omhulsels van vergane zeedieren,
-die in plaats van inwendig geraamte, slechts deze uitwendig op Ã©Ã©n
+die in plaats van inwendig geraamte, slechts deze uitwendig op één
 punt aan hen vastgegroeide huisjes, tot stevig tegenwicht voor hunne
 weekheid hadden! En kijk, wat hebt gij daar? Een bruin, hoornachtig
 langwerpig-vierkant zakje, met vier puntige aanhangsels. Het is een
@@ -2790,7 +2823,7 @@ Intusschen is het etensuur geslagen, en daarna, tusschen
 zessen en zevenen, begint op het strand en de terrassen de
 pantoffelparade. Menigeen, die tot dus verre genoeg had aan de zee en
 zich zelven, komt nu om het gezelschap. Gij doet mee met de massa. Een
-mensch is zÃ³Ã³ niet, of hij wil daar ook eens het zijne van hebben. Gij
+mensch is zóó niet, of hij wil daar ook eens het zijne van hebben. Gij
 voelt u minder vrij dan 's morgens, maar hebt daartegenover het
 voorrecht van menschengezichten te zien. Gij weet, er zijn er bij,
 die u aantrekken; gestalten, die gij gaarne nog eens zien zoudt,
@@ -2804,9 +2837,9 @@ om die te ontwijken. De kans op conversatie is voortreffelijk; 't
 is een prachtige avond geworden en 't blijft licht tot negen uur,
 half tien toe.
 
-Doch eer het donker is, komt er Ã©Ã©n oogenblik, of liever Ã©Ã©n kwartier,
+Doch eer het donker is, komt er één oogenblik, of liever één kwartier,
 waarin de meeste gesprekken verstommen, en bijna aller oogen naar
-Ã©Ã©n zij gericht zijn: naar den noordwestelijken horizont. Het is,
+één zij gericht zijn: naar den noordwestelijken horizont. Het is,
 als daar het drama van den zonsondergang wordt afgespeeld. Ziet,
 het oogenblik nadert; reeds begint zich de hemel te kleuren. De zon
 daalt merkbaar; en zij, die op den dag niet dulden wilde, dat wij
@@ -2827,9 +2860,9 @@ voor de geheimzinnige weelde van iets boven zich te vereeren, en in
 stilte den raad des dichters volgen:
 
 
-        Laisse aller ta priÃ¨re oÃ¹ ton Ã¢me l'envoie:
-        Ne t'inquiÃ¨te pas, toute chose a sa voie,
-        Ne t'inquiÃ¨te pas du chemin qu'elle prend!
+        Laisse aller ta prière où ton âme l'envoie:
+        Ne t'inquiète pas, toute chose a sa voie,
+        Ne t'inquiète pas du chemin qu'elle prend!
 
 
 Dit gloeiend schouwspel duurt slechts kort; na weinige minuten
@@ -2851,7 +2884,7 @@ is een tref, maar als men 't treft, is het een groot voorrecht aan
 een badplaats!--die het gemeenschappelijke avondeten weet te kruiden
 met een aardigheid; die de kleine feiten van den dag artistiek opvat,
 of een oude anekdote handig weet te pas te brengen; die de kunst
-verstaat, Ã²f om zelf te vertellen, Ã²f om het gezelschap aan de praat
+verstaat, òf om zelf te vertellen, òf om het gezelschap aan de praat
 te brengen,... zie, dan wenschen zij, in negen van de tien gevallen,
 dat het badseizoen voor hen nog heel lang moge duren.
 
@@ -2917,12 +2950,12 @@ de breuk een weinig opdroogt en verdort, kunt gij de bruine stipjes,
 de doorsnee van die strengen zien, en ook in den steel zelven die
 strengen vervolgen. (Op dezelfde wijze kan men b. v. in den steel van
 een "drievoudig" aardbeiblad drie vaatbundelstrengen, in die van een
-"enkelvoudig" eikeblad Ã©Ã©ne vinden.)
+"enkelvoudig" eikeblad ééne vinden.)
 
 Reeds op het eind van Februari begint, onder eenigszins gunstige
 omstandigheden, de kastanje aan "uitloopen" te denken. Nochtans
 behoorde er zonder twijfel ieder jaar een groene bril bij, om
-dien van den tuin der TuilerieÃ«n, op den 20sten "in volle groen"
+dien van den tuin der Tuilerieën, op den 20sten "in volle groen"
 te zien staan. De ontwikkeling van het "groen" toch gaat juist
 bij den kastanje ongewoon langzaam: tusschen de eerste teekenen van
 inwendige beweging en den vollen wasdom van het loof moet een geruime
@@ -2931,7 +2964,7 @@ te nemen tusschen de laatste dagen dat de boom in knop staat, als
 een beeld van volle levenskracht en moed en ijver, en de armzalige
 figuur, die hij maakt in het daaropvolgend tijdperk, wanneer al de
 jonge blaadjes slap ter neder hangen, even als de ooren van pasgeboren
-lammeren. Het duurt, zelfs bij warm weÃªr, meer dan een week voordat
+lammeren. Het duurt, zelfs bij warm weêr, meer dan een week voordat
 zij zich opheffen; dit ligt, denk ik, aan de lange stelen, die in
 den beginne te zwak zijn om het betrekkelijk zware blad, dat hen in
 ontwikkeling vooruit is, te dragen. Eindelijk echter rijzen zij omhoog
@@ -2964,7 +2997,7 @@ open te snijden. Het zal zeker uwe moeite loonen, indien gij dit
 geregeld doen wilt met de afvallende kastanjes. Het is verrassend,
 na te gaan hoe zulk een vruchtbeginseltje tot vrucht wordt: wat er
 omgaat binnen dien, reeds spoedig ruwen, kleinen bolster; hoe hij
-eerst drie kastanjes belooft, maar er meestal slechts Ã©Ã©ne of twee
+eerst drie kastanjes belooft, maar er meestal slechts ééne of twee
 groot brengt, en hoe lang het duurt eer zij hunne mooie bruine kleur
 aannemen en glad en droog in hunne hokjes gereed liggen.
 
@@ -3096,7 +3129,7 @@ waarin die geur ontstaat. 't Is klein en flets van kleur: 't is in zijn
 soort al even onaanzienlijk als het vaalbruin vogeltje, waarvan 't ons
 ieder jaar op nieuw verwondert, dat zijn kleine keel zooveel muziek
 kan voortbrengen. Nochtans, het is een aardig bloempje, niet slechts
-een los bloemdek of Ã©Ã©nslachtig katje, zooals de meeste woudboomen er
+een los bloemdek of éénslachtig katje, zooals de meeste woudboomen er
 op na plegen te houden: het is een fraai gevormde, geheel volkomen
 bloem, met kelk en kroontje, met meeldraden en stampertjes, en ten
 overvloede een paar, naar verhouding, reusachtige schutbladen, die,
@@ -3114,7 +3147,7 @@ verdikking, die uitloopt in een hard, reeds bruin geworden randje,
 en waaruit tegelijk een bladsteel en een nieuwe knop ontsproten. Aan
 deze slanke stelen plooien zich de hartvormige bladeren. 't Is of het
 vulweefsel zich gauwer uitgezet heeft dan de aderen bij konden houden:
-het voegt zich met eenige ruimte daartusschen. EÃ©ne nerf loopt recht
+het voegt zich met eenige ruimte daartusschen. Eéne nerf loopt recht
 door naar de punt van het blad, en verdeelt dat in twee ongelijke
 helften. Het adernet is bijna tot in 't oneindige verdeeld, zooals
 vooral te zien is aan de achterzijde, die fletser dan de bovenzijde
@@ -3174,7 +3207,7 @@ heerlijkheden, zoolang men omhoog, en af en toe van verre, den vollen
 glans van het licht ziet; en zich te koesteren in de zonnestralen is
 des te verkwikkender, wanneer de blik mag rusten op een achtergrond
 van lommer. Hoe oneindig meer verscheidenheid en rijkdom is er in een
-landschap met dan zonder boomen!... Ik ben nooit in ItaliÃ« geweest. 't
+landschap met dan zonder boomen!... Ik ben nooit in Italië geweest. 't
 Kan zijn dat men daar lichteffekten heeft zoo schoon, dat zij het gemis
 aan hout vergoeden. Maar intusschen: leve in ons land het bosch, in
 welken vorm dan ook! Leve de eik, de beuk, de spar, de esch en wat daar
@@ -3210,11 +3243,11 @@ eenvoudig even praten over het groepeeren van bloeiende planten.
 Ik wou vragen: wat dunkt u van de in de laatste jaren heerschende
 mode der "tapijtbedden" of "mozaiekperken"?
 
-Ziet ze vÃ³Ã³r u, in hun sterksprekend karakter van netheid, stijfheid
+Ziet ze vóór u, in hun sterksprekend karakter van netheid, stijfheid
 en hardheid, in dit alles niets onderdoende voor een keurig opgemaakt
 schoteltje haringsla. Schitterend rood, helder geel, hard blauw,
 blinkend wit spelen daarin gewoonlijk de hoofdrol; en vertoonen
-zich nog harder dan zij zijn, door de combinatiÃ«n waarin zij naast
+zich nog harder dan zij zijn, door de combinatiën waarin zij naast
 elkander geplaatst worden. Het spreekt van zelf, dat indien eenmaal
 zuiverheid van uit bloemen gevormde figuren hoofdzaak wordt, sterke
 contrasten zeer gezocht zijn, om de teekening effekt te doen maken;
@@ -3252,13 +3285,13 @@ deze zelfde bloemenmassa nog veel aangenamer indruk zou maken, indien
 zij op eene meer met haar karakter overeenstemmende wijze gegroepeerd
 was. En eindelijk zijn er sommigen, die werkelijk uit overtuiging
 de tapijtbedden toejuichen, omdat zij...hen doen denken aan den
-Style-le-NÃ´tre en de tuinen van Versailles, die zij zoozeer bewonderen.
+Style-le-Nôtre en de tuinen van Versailles, die zij zoozeer bewonderen.
 
 Ik heb dikwijls getracht mij daarvan rekenschap te geven. Doch wat
-aangaat den Style-le-NÃ´tre, in Ã©Ã©n geval slechts kan ik mij voorstellen
+aangaat den Style-le-Nôtre, in één geval slechts kan ik mij voorstellen
 dat iemand van beschaafden smaak daarmede ingenomen is. Dat is:
 wanneer men lang, te lang in eene wildernis vertoefd heeft, waar de
-natuur allÃ©Ã©n het heft in handen had, en dan, teruggekeerd in de
+natuur alléén het heft in handen had, en dan, teruggekeerd in de
 bewoonde wereld, zich als tegenstelling aangenaam voelt aangedaan
 door zulk een machtig en planmatig ingrijpen van menschelijke kunst
 in natuurlijke groeikracht. Of wel,--wat geestelijk daarmee gelijk
@@ -3280,7 +3313,7 @@ nagaan, zien wij dezen dan ook weldra eene hoogere vlucht nemen. Na
 eerst naar hartelust getoond te hebben, in hoeverre men bij machte was,
 den dwingeland te spelen over de natuur, kwam men op den edeler inval,
 om dieper in haar wezen en haar eigen wetten door te dringen, en haar
-in overeenstemming daarmede te regeeren. Na Le NÃ´tre heerschte William
+in overeenstemming daarmede te regeeren. Na Le Nôtre heerschte William
 Kent. Na de stijve sterrenbosschen en de tot groene muren opgesnoeide
 hagen, en als geparquetteerde vloeren vlak uitgestrekte bloemperken,
 kwam de "engelsche aanleg" met zijne aan de natuur zelve ontleende
@@ -3297,7 +3330,7 @@ Maar nog verbazender, en daarbij beschamend dunkt het mij, als
 onze eeuw zoo goedsmoeds weder een sprong achterwaarts schijnt te
 willen maken. Of is het niet een onbegrijpelijke terugkeer naar
 het oude, wanneer hier, zoowel als in Engeland, in Frankrijk,
-in BelgiÃ«, in Duitschland, op zoo menig glooiend grasveld de
+in België, in Duitschland, op zoo menig glooiend grasveld de
 liefelijkste heesterpartijtjes weggeruimd worden ten behoeve van een
 mozaiek-aanleg? Wanneer in plaats van hier en daar verspreide perken,
 waar schilderachtig geschakeerde planten, los en sierlijk, al naar haar
@@ -3328,7 +3361,7 @@ blijft altijd hangen!
 
 XXII.
 
-DE POÃ‹ZIE VAN HET GROENTEN-SCHOONMAKEN.
+DE POËZIE VAN HET GROENTEN-SCHOONMAKEN.
 
 
 Hoe zouden wel de meesten mijner lezeressen gestemd zijn, indien
@@ -3336,29 +3369,29 @@ het haar onmogelijk gemaakt werd iets van al de spijzen, die men
 "groente" noemt, op tafel te krijgen, tenzij zij ze eerst met eigen
 fijne handen dopten, sneden, schoonmaakten? Zeer velen noemen dit
 eenvoudig "meidenwerk", dat haar eigenlijk niet aangaat, en waarboven
-zij, als 't ware, verheven zijn; en anderen, die er zich somwijlen meÃª
+zij, als 't ware, verheven zijn; en anderen, die er zich somwijlen meê
 belasten, beschouwen dit als eenen nuttigen en daarom onvermijdelijken,
-maar dan toch altijd zeer eentonigen, geestdoodenden, recht prozaÃ¯schen
-arbeid, waarmeÃª zij zoo gauw mogelijk gedaan maken, om zich aan ander,
+maar dan toch altijd zeer eentonigen, geestdoodenden, recht prozaïschen
+arbeid, waarmeê zij zoo gauw mogelijk gedaan maken, om zich aan ander,
 meer harer beschaving waardig, werk te begeven.
 
-ProzaÃ¯sch?--Om te weten of er poÃ«zie schuilt in het een of ander, ken
+Prozaïsch?--Om te weten of er poëzie schuilt in het een of ander, ken
 ik een zeer eenvoudig middeltje, dat meestal op den rechten weg brengt;
 ik tracht mij duidelijk te herinneren hoe ik er over dacht als kind.
 
 Mag ik van mijn eigen kindsheid spreken? Ik weet nog heel goed wat
-ik voelde, toen ik, vier, vijf, zes jaar oud, aan iemands knieÃ«n
+ik voelde, toen ik, vier, vijf, zes jaar oud, aan iemands knieën
 erwten stond te doppen. Ik weet dat ik ze telkens weer "zoo mooi"
-vond, die schokken, gaaf en glimmend als glacÃ©-leer, en van binnen
+vond, die schokken, gaaf en glimmend als glacé-leer, en van binnen
 nog veel zachter dan een lapje zijde. Ik weet hoe aardig ik het vond,
 dat ik ze met zoo weinig kracht kon opendrukken; dat zij juist spleten
 daar, waar die twee stijve, lichtgekleurde randjes elkaar raken. En
 als de schok dan half geopend in mijn hand lag, met de beide helften
 aan de andere zijde nog vereenigd, hoe keurig netjes was dan niet
 het inzicht op die zeven, acht of negen erwten, ieder met een kort
-wit steeltje, beurtelings op Ã©Ã©ne van de beide zijden bevestigd,--die
+wit steeltje, beurtelings op ééne van de beide zijden bevestigd,--die
 zich zoo gemakkelijk, juist passend, schikten in die kleine ruimte,
-als "veel makke schapen in Ã©Ã©n stal". Elk nieuw seizoen bekeek ik ze
+als "veel makke schapen in één stal". Elk nieuw seizoen bekeek ik ze
 met nieuwe aandacht, als een fraai stuk speelgoed, dat een jaar lang
 weggesloten was geworden. Hoe glommen zij, hoe zacht lichtgroen, hoe
 glad en teeder waren zij, "veel mooier nog dan eene rist matglazen
@@ -3371,7 +3404,7 @@ Evenzoo weet ik o. a. nog heel goed, hoeveel pleizier ik altijd had in
 het schoonmaken van Brusselsche spruitjes. Een kind, niet waar? wordt
 aangetrokken door miniatuur-namaaksels van dingen, waaraan het gewoon
 is. Welk een verrukking was het niet, om bij voorbeeld, bij toeval,
-op een Ã©tagÃ¨re het huisraad, gereedschap, servies onzer ouders,
+op een étagère het huisraad, gereedschap, servies onzer ouders,
 in precies dezelfde vormen, maar veel kleiner afmetingen, weder te
 vinden; hoe ging ons hart open als wij eens een goed geproportioneerd
 model van een molen of een brug onder de oogen kregen! Zoo troffen
@@ -3399,7 +3432,7 @@ Hebben uw en mijn herinneringen het voornaamste niet met elkander
 gemeen? Weet ook gij niet zoo iets te vertellen uit uw kinderjaren?
 
 En waarom zouden dan diezelfde dingen, die ons toen zoo boeiden,
-thans "prozaÃ¯sch" zijn geworden? Is het beneden onze waardigheid
+thans "prozaïsch" zijn geworden? Is het beneden onze waardigheid
 oog en hart te hebben voor die kleinigheden, als daar zijn erwten
 en hun steeltjes, het adernet van spruitjes, of de haren van een
 raapsteelblaadje? Maar gij schaamt u immers niet om veel opmerkzaamheid
@@ -3407,7 +3440,7 @@ te wijden aan pareltjes en diamanten en andere fraaie kleine zaken!--Of
 is het dat wij sinds die eerste jaren reeds zooveel erwten, boonen,
 kool en andijvie-bladen in de handen gehad hebben, dat wij afgestompt
 zijn op het punt van hun belangrijkheid, en niet meer vatbaar voor het
-schoon van hun dÃ©tails? Stelt gij dat kinderlijk genot van 't eerste
+schoon van hun détails? Stelt gij dat kinderlijk genot van 't eerste
 erwtendoppen gelijk met dat wat u vervulde, toen gij voor het eerst
 mocht breien, naaien of een tapisseriepatroon nawerken? Misschien
 in zeker opzicht, maar toch niet in alle: niet in zoover wij iets
@@ -3417,9 +3450,9 @@ de meeste volwassenen: het vraagt, vraagt altijd verder. Een kind
 voelt onder 't boonendoppen de vraag in zich rondwoelen: wat een
 boon toch wel voor een ding is; en wij zijn meestal tevreden met het
 praktisch-oppervlakkige bewustzijn, dat zij daar met duizend anderen
-vÃ³Ã³r ons ligt als eetwaar.
+vóór ons ligt als eetwaar.
 
-Wij zelven zijn prozaÃ¯sch geworden, dat is het. Wij zijn er aan gewoon
+Wij zelven zijn prozaïsch geworden, dat is het. Wij zijn er aan gewoon
 geraakt de natuur als onze wettige slavin te beschouwen en hare "ruwe"
 voortbrengselen alleen maar te waardeeren in zoover zij onze zeden
 en gebruiken, onze huishouding dienen. Als een kind een mand met
@@ -3435,7 +3468,7 @@ in het onmiddellijke platte "nut" der dingen, dat er geen greintje
 hart meer overblijft voor hunne schoone zijde? Voor mijne meeste
 lezeressen kan ik die reden niet vooronderstellen.
 
-De schuld van het eenzijdige prozaÃ¯sch worden ligt, geloof ik, voor
+De schuld van het eenzijdige prozaïsch worden ligt, geloof ik, voor
 de meesten in opvoeding, beschaving, gekunstelde ontwikkeling. De
 aangeboren trek bij voorbeeld, die ons in onze kindsheid ingaf dat
 "erwten meer zijn dan kralen, wijl zij leven", heeft geleden onder
@@ -3507,7 +3540,7 @@ En indien wij dan gaandeweg, tot aandenken, een ruikertje korenbloemen
 hadden willen verzamelen, zouden wij zeker al nagenoeg hetzelfde
 gevonden hebben, wat thans, na tweehonderd jaar, nog steeds bij
 voorkeur in het bouwland groeit: klokjes, winden, leeuwenbekken en
-bolderikken, oogentroost en wilde riddersporen, kamille, centauriÃ«n
+bolderikken, oogentroost en wilde riddersporen, kamille, centauriën
 en klaprozen....
 
 Als er van "glans" gesproken wordt, komen de laatsten zeker wel het
@@ -3522,7 +3555,7 @@ schoon, en zijde-achtig als toen zij nog op hun stengel zaten;... zij
 dienen dan des nachts tot dansrokjes voor elfen, heb ik wel eens
 hooren vertellen. En behalve door de sage, worden zij vereeuwigd
 door 't penseel van elken schilder die zich min of meer gelukkig met
-veldbloemen inlaat. Denkt u een "jardiniÃ¨re" zonder haar; denkt u
+veldbloemen inlaat. Denkt u een "jardinière" zonder haar; denkt u
 de doosjes, kistjes, bakjes, portefeuilles, waarmee de winkels van
 het vroolijk Spa zich telken jare sieren, zonder eene klaproos als
 onmisbaar middelpunt?
@@ -3532,7 +3565,7 @@ voornamelijk de rooden, maar de blauwen: die welbekende bloemhoofdjes,
 in welker buitenste randbloempjes, (welbezien slechts als peperhuisjes
 opgerolde blaadjes), de schoone tint van eenigszins gebroken blauw
 ten toon gespreid wordt, dat daaraan den naam van "korenblauw"
-ontleent. Aan de blauwe korenbloemen is van oudsher zekere poÃ«zie
+ontleent. Aan de blauwe korenbloemen is van oudsher zekere poëzie
 verbonden; als ware het bij overlevering hebben wij ze lief; dat elk
 ze kent, beter dan zoo menige andere fraaie veldbloem, is daarvan
 wel het duidelijkste bewijs.
@@ -3546,7 +3579,7 @@ haar liefhebben het beeld harer omgeving is. Zonder die omgeving
 is zij niets. Als "Centaureae Cyanae" in tuinen gekweekt worden,
 vindt gij ze dan wel mooi? Gesteld al, dat zij bij de kweeking haar
 oorspronkelijke kleur behouden, wat meestal niet geschiedt, (want
-doorgaans wordt het blauw Ã²f donkerder Ã²f fletser, of verbastert het
+doorgaans wordt het blauw òf donkerder òf fletser, of verbastert het
 tot vuil-wit of vuil-paars),--gesteld al, dat de kleur zuiver blijft,
 dan maken zij toch altijd een onverschilligen indruk. Het grove,
 schrale, onbehaaglijke der stengels en der bladeren valt in den tuin
@@ -3564,7 +3597,7 @@ met graan, en hier en daar doorsneden door landwegen, en gebroken
 door grooter of kleinere boschjes rondom menschen-woningen. Het
 is een gezichteinder, afgesloten hetzij in de verte door heuvelen,
 hetzij dichterbij door hooge boomen, of de daken en de torens van
-een dorp. Het is het mooie Juli-weÃªr, de helderheid der lucht, de
+een dorp. Het is het mooie Juli-weêr, de helderheid der lucht, de
 geelachtige tint der aren, en het volle warme groen van gindsche
 olmen. Het is de zonneschijn die alles verguldt, de rust die daar
 heerscht om u heen; het koeltje dat er nu en dan alles in beweging
@@ -3607,19 +3640,19 @@ EEN BERGTOCHT.
 Wanneer Hollanders over Boheme, met name over eene eigen reis
 naar Boheme spreken, denken zij daarbij meestal het eerst aan een
 badreis naar Karlsbad, met een uitstapje naar Praag, of wel aan het
-op boheemsch grondgebied liggende deel van de zoogenaamde "SÃ¤chsische
+op boheemsch grondgebied liggende deel van de zoogenaamde "Sächsische
 Schweiz". Mij voerden bijzondere omstandigheden een paar jaar geleden
 naar een ander hoekje, ook in het noorden van Boheme, maar een weinig
 dieper landwaarts in. Mijn tijdelijke verblijfplaats was dicht bij
 Trautenau, een welvarend stadje, bekend door de worsteling tusschen
 Pruisen en Oostenrijkers in 1866; en van daar maakten wij tochtjes
-in den omtrek. EÃ©n daarvan heeft niet alleen voor mij zijne aangename
+in den omtrek. Eén daarvan heeft niet alleen voor mij zijne aangename
 herinneringen, maar gold eene merkwaardigheid, die hier te lande zoo
 goed als onbekend is, de "Weckelsdorfer Felsenstadt".
 
-Op een mooien zondagochtend trokken wij uit; Ã©Ã©n van het gezelschap
+Op een mooien zondagochtend trokken wij uit; één van het gezelschap
 had den weg vooraf bestudeerd, en wij overigen lieten ons leiden. Wel
-moesten wij een keer of vijf van lijn verwisselen; Ã©Ã©ns een uur wachten
+moesten wij een keer of vijf van lijn verwisselen; ééns een uur wachten
 op een trein die te laat kwam, en daarna nog eens twee uur overblijven
 aan een station dat midden in het land stond, met een arbeidershut die
 voor stationskoffiehuis diende; maar met dat al was 't heerlijk dat
@@ -3660,7 +3693,7 @@ aan wanhopige vluchtelingen; de sporen van vroegeren menschenarbeid
 hier en daar zichtbaar, worden in den regel aan "de Hussieten"
 toegeschreven, die in alle oude boheemsche vertellingen eene groote
 rol spelen. Daar wij dicht bij het Reuzengebergte zijn, komt natuurlijk
-ook de berggeest RÃ¼bezahl bij de legenden van de Felsenstadt te pas.
+ook de berggeest Rübezahl bij de legenden van de Felsenstadt te pas.
 
 Eensklaps echter, in het begin van onze eeuw, ontstond er in deze
 geheimzinnige rotsmassa boschbrand. Wie zich een brand voorstellen
@@ -3674,7 +3707,7 @@ over de vreemde vormen die zij daar aanschouwden. Het weer, het
 water, de elkander opvolgende boomgeslachten, die sinds honderden
 van jaren daar ongestoord aan 't werk waren geweest, hadden deze
 rotsen op allerhande wijzen doorkliefd en gespleten. De regen was er
-doorgesiepeld, en de wind had het Ã©Ã©ne stuk op het andere geworpen;
+doorgesiepeld, en de wind had het ééne stuk op het andere geworpen;
 en zandsteen is zoo bros en laat zich zoo gemakkelijk boetseeren,
 vooral wanneer de reuzenkrachten, die zich daarmee bezighouden,
 er hun tijd voor kunnen nemen! En een laatste gevolg was geweest,
@@ -3682,7 +3715,7 @@ dat het bezit der rotsenstad, waaraan zich tot nog toe niemand veel
 gelegen liet liggen, nu door den rechtmatigen eigenaar, den landheer,
 geregeld aanvaard werd; dat hij de gemakkelijkste toegangen afsluiten
 en aan vreemdelingen zonder gids verbieden liet. Weldra werd toen het
-vertoonen van de "Felsenstadt" aan beÃ«edigde gidsen verpacht,--en op
+vertoonen van de "Felsenstadt" aan beëedigde gidsen verpacht,--en op
 aanbeveling van Baedeker en zijne plaatselijk-boheemsche collega's,
 neemt in de laatste jaren het aantal bezoekers elken zomer toe.
 
@@ -3705,7 +3738,7 @@ schraal en onaanzienlijk; behalve in enkele vruchtbare valleitjes,
 brengt die weinig tot de aantrekkelijkheid van 't landschap bij:
 hoofdzaak zijn de verrassende wendingen, de grillige blokken, de
 donkere kloven, welker aanblik bij iederen voetstap verwisselt. Ons
-allen boeiden deze tooneelen ontzaglijk; de gids ging vÃ³Ã³r, wij
+allen boeiden deze tooneelen ontzaglijk; de gids ging vóór, wij
 volgden, bijna twee uur lang, nu rechts dan links, en niemand dacht aan
 moeworden. Indien men spreekt van een eenigszins vervelende inmenging
 van menschen, dan bestaat die misschien daarin, dat de gidsen aan de
@@ -3724,7 +3757,7 @@ en wees plechtig naar de hoogte. Er werd hartelijk gelachen om die
 botsing van de katholieke en de protestantsche zienswijze; maar het
 is waarlijk niet te verwonderen dat het volk hier den schutspatroon
 van Boheme meent te aanschouwen. Dat groote standbeeld van dien man
-met toga en baret, met een boek in de Ã©Ã©ne hand, en de andere over
+met toga en baret, met een boek in de ééne hand, en de andere over
 het land uitgestrekt,--spreekt het niet van zelf, dat men hem als
 den heilige moet aanbidden? (Welk een groote rol het lichteffekt
 echter bij die gelijkenissen speelt, blijkt wel dadelijk daaruit,
@@ -3739,19 +3772,19 @@ hals in de verte naar iets uitziet.
 
 Weldra kwamen wij aan het "rotsamphitheater", een halfrond dal,
 dat werkelijk aan de afbeeldingen van het romeinsche Coliseum doet
-denken; in den somberen "grafkelder"; en eindelijk in den "MÃ¼nster",
+denken; in den somberen "grafkelder"; en eindelijk in den "Münster",
 een prachtige grot, waar de tonen van 't genoemde orgel, ofschoon
 zwak, niet slecht klonken. Een paar allerliefste plekjes waren "de
-lentetuin", met zijn frissche varensvegetatie, en "ItaliÃ«". Dit laatste
-heet nl. zoo, in tegenstelling van "SiberiÃ«", een kille kloof, waar
+lentetuin", met zijn frissche varensvegetatie, en "Italië". Dit laatste
+heet nl. zoo, in tegenstelling van "Siberië", een kille kloof, waar
 nooit zonnestralen doordringen en waar het gansche jaar door sneeuw
 ligt;--daaruit tredende, komt men dan onmiddellijk in het warme,
-rondom beschutte, rijk begroeide "ItaliÃ«". Eerst tegen 't vallen van
+rondom beschutte, rijk begroeide "Italië". Eerst tegen 't vallen van
 den avond, juist toen de schaduwen te lang begonnen te worden, was onze
 wandeling ten einde. Bij den ingang--thans voor ons den uitgang--stond
 een hut, waar men bier en wijn kon krijgen en allerhande snuisterijen,
 bestemd voor "welkom t'huis"; getuige de gemoedelijke woorden, waarmee
-ze allen prijkten: "Auch in Weckelsdorf gedachte ich Dein." VÃ³Ã³r de
+ze allen prijkten: "Auch in Weckelsdorf gedachte ich Dein." Vóór de
 deur, op onze tafel, lag een vreemdelingenboek, en als gewoonlijk
 zochten wij daarin naar Nederlanders, die wij echter hier zoomin als
 ergens anders in deze buurt ontmoetten. Het plan werd aangenomen om er
@@ -3771,7 +3804,7 @@ tot stand:
 
             Wie weten wil hoe grillig-grootsch
               Natuur zich kan vertoonen,
-            BetreÃª de Weckelsdorfer "Stadt:"
+            Betreê de Weckelsdorfer "Stadt:"
               Het zal de moeite loonen.
 
 
@@ -3783,7 +3816,7 @@ morgen de zaak nog eens even van de Adersbachsche zijde bekijken. Bij
 Adersbach nl. is nog een tweede toegang, en vandaar uit wordt men door
 de andere helft van het rotsgebied rondgeleid. M. i. is intusschen de
 Weckelsdorfsche helft de beste, daar zij veel meer verscheidenheid
-aanbiedt. De Adersbachsche kant heeft dit vÃ³Ã³r, dat werkelijk het
+aanbiedt. De Adersbachsche kant heeft dit vóór, dat werkelijk het
 begrip van stad daar het meest tot zijn recht komt. In de lange,
 eentonige, slechts nu en dan in breedte verschillende gangen, die
 daardoorheen leiden, kan men zich volkomen verbeelden door straten
@@ -3792,7 +3825,7 @@ ellen afstands, gespleten; de doorsiepelende regen heeft er gleuven
 tusschen gemaakt, die aan smalle stegen of slopjes doen denken; en
 wie dan den donker grijzen steen kent, waarvan reeds te Leipzig en
 te Dresden het grootste oude deel der steden opgetrokken is, zal zich
-niet verwonderen dat de namen: "lange Gasse", "Prager JesuÃ¯tengasse",
+niet verwonderen dat de namen: "lange Gasse", "Prager Jesuïtengasse",
 "Breslauer Wollmarkt" enz. hier zeer teekenachtig en gelukkig zijn
 gekozen.
 
@@ -3818,7 +3851,7 @@ kleine afzonderlijke wereld. De beide helften van de groengeverfde
 deuren glimmen u rustig tegen; het neteldoek van de gordijntjes,
 zoo het al ooit gedroomd mocht hebben voor een dansjapon bestemd te
 wezen, heeft zich thans voor goed geschikt in zijn rustige plooi:
-zÃ³Ã³ goed, dat het dien dadelijk weer aanneemt, als de rimpelige hand,
+zóó goed, dat het dien dadelijk weer aanneemt, als de rimpelige hand,
 die het eventjes oplichtte om ons te begluren, het loslaat. De katten
 sluimeren rustig in den zonneschijn. Zelfs de lijsters in de kooien
 schijnen zich onder dien invloed te voelen. De mijne zingt altijd:
@@ -3846,7 +3879,7 @@ en zich zelven eene plaats in den hemel te verwerven. De bouwtrant
 en de ornamenten getuigen van dien tijd; en het is alsof zich ook
 in de meer roerende goederen een geest van vroeger dagen vastgelegd
 heeft. Hij spreekt u toe uit de meubelen der oude bewoonsters; uit de
-neepjesmutsen, nog van het model als waarmeÃª zich onze overgrootmoeders
+neepjesmutsen, nog van het model als waarmeê zich onze overgrootmoeders
 lieten portretteeren; en... lach mij niet uit, hij spreekt u ook toe
 uit de bloemen, welke daar bij voorkeur gekweekt worden.
 
@@ -3863,7 +3896,7 @@ misschien op eene bloemmarkt, in den voorraad van een "tuinder," die
 zich bepaald op de klandisie van de oude vrouwtjes toelegt, krijgt
 men zulk een rijkdom van schitterende duizendschoonen en welriekende
 violieren te zien? Waar anders speelt de balsamine zulk een groote
-rol? Ik meen Ã¨n de enkele, de klimplant, Ã¨n vooral de oost-indische
+rol? Ik meen èn de enkele, de klimplant, èn vooral de oost-indische
 balsamine, met haar dubbele bloemen, rood, wit of purper, als de nagels
 van een hyacinth rondom den schijnbaar verglaasden stengel geschikt,
 terwijl een bladerkroon, als bij een ananas, daar boven uitsteekt.
@@ -3875,7 +3908,7 @@ toeschijnt als daar. Omstreeks dien tijd bloeien in het vierkante
 middenvak de witte en kersroode dubbele madeliefjes, die in plaats van
 gras eenige bloemperkjes omzoomen. Iets later komen ook de randjes van
 grasanjers in bloei; en dan staat op de rekjes voor de ramen, tusschen
-een aantal kleine potjes met Sedums en CacteÃ«n, een groote "ruiker"
+een aantal kleine potjes met Sedums en Cacteën, een groote "ruiker"
 ranonkels in een glas water of, zoo mogelijk, in een blauw porceleinen
 vaasje. Ruiken doen zij echter niet, en hun bouw is zoo stijf, dat de
 gedachte voor de hand ligt, hoe gemakkelijk zij uit vischschubben na te
@@ -3902,9 +3935,9 @@ in hooge eer bracht. Zuid-amerikaansche liane als zij is, kon zij
 in ons koel klimaat nooit algemeen worden; zij bleef steeds een
 kasplant. Dat ik haar op het hofje ontdekte, was dan ook door een
 bijzonder fortuintje. Zij was het eigendom van een vrouwtje van
-brabantsche afkomst, die haar plant zÃ³Ã³ geleid had, dat die een
+brabantsche afkomst, die haar plant zóó geleid had, dat die een
 soort van nisje vormde, waarin zij haar crucifix plaatste. Om, als
-Ã©Ã©nige roomsche onder de hofbewoonsters, geen ergernis te geven,
+éénige roomsche onder de hofbewoonsters, geen ergernis te geven,
 hield zij die stellage in den regel verscholen; eens, op een mooien
 achtermiddag, trof ik het toevallig dat zij haar buiten had gehaald
 "voor een verfrissching".
@@ -3938,11 +3971,11 @@ die nog salie in den tuin heeft?"
 Waarom toch al deze planten uit de mode geraakt zijn?
 
 Sommigen omdat zij niet mooi genoeg waren. Anderen omdat zij hier niet
-"aarden wilden".--Maar dat kunnen niet de Ã©Ã©nige redenen zijn. Een
+"aarden wilden".--Maar dat kunnen niet de éénige redenen zijn. Een
 bejaard bloemist zei eens: "Wat ik altijd opgemerkt heb: zoolang er
 aan een plant wat te veranderen valt, blijft zij in de mode; zoodra
 men daar geen kans meer op ziet, raakt zij er uit." Ik geloof dat
-daar veel waars in is. De wedijver der kweekers om nieuwe variÃ«teiten
+daar veel waars in is. De wedijver der kweekers om nieuwe variëteiten
 te leveren, maakt de mode; en de plantensoorten die zich daartoe het
 dankbaarst leenen, hebben voor een tijd den boventoon.
 
@@ -4010,15 +4043,15 @@ Maar hoe zou het toch wel komen, dat het dan voor een aantal menschen
 met dezen langverwachten zomer gaat als met zoo menig feest, waarvan
 de toebereidselen veel aangenamer waren dan ten slotte de uitvoering
 zelve? Dat die zomervreugde, waarop men zich zoozeer verheugd heeft,
-als zij eindelijk dÃ¡Ã¡r is, ronduit gezegd, maar al te dikwijls
-tegenvalt? Dat de Ã©Ã©n veel tijd besteedt aan plannen, om zich het
+als zij eindelijk dáár is, ronduit gezegd, maar al te dikwijls
+tegenvalt? Dat de één veel tijd besteedt aan plannen, om zich het
 schoone jaargetijde het aangenaamst te maken, en nochtans tot geen
 recht genot kan komen; en een ander, zij het dan ook met een beetje
-schaamte, moet erkennen, dat hij eigenlijk den winter wÃ¨l zoo kalm
+schaamte, moet erkennen, dat hij eigenlijk den winter wèl zoo kalm
 en rustig, gezellig, "comfortable" en pleizierig vindt?
 
 Wel, voor honderd menschen komt het allicht door honderd
-verschillende redenen; doch er is er Ã©Ã©ne, die daarbij voor velen
+verschillende redenen; doch er is er ééne, die daarbij voor velen
 eene groote rol speelt. Ik meen de voet van oorlog waarop de meeste
 Nederlanders voortdurend staan met het klimaat, waarin zij nu
 toch eenmaal leven. Hoort al de eindelooze aanklachten tegen zijne
@@ -4034,7 +4067,7 @@ schitterend jaarfeest der ons omringende natuur te doen mede vieren?
 Ik denk het allereerst aan onze dag- en nacht-verdeeling. Hoe zijn
 wij er toch toe gekomen om, wonende op een breedtegraad waar zulk een
 groot verschil is in zons-op- en ondergang, in het huiselijk leven
-nagenoeg het gansche jaar door Ã©Ã©n tijdsverdeeling te behouden, en
+nagenoeg het gansche jaar door één tijdsverdeeling te behouden, en
 wel een die het beste past voor de allerkortste dagen? Het meerendeel
 toch der beschaafde menschen begint den dag met het uur, waarop de
 zon in Januari, hoogstens Februari opkomt, en verlengt hem s'avonds,
@@ -4045,7 +4078,7 @@ uren te verslapen; dan, daardoor verhit, moe en dof wakker geworden,
 de warmste uren, waarin de natuur rust en stilte voorschrijft, al
 zwoegend doorwaken; om ten slotte in den avond tot zich zelven en een
 handjevol genot te komen, en, bejammerend dat die schoone dag "zoo
-kort", en het afscheid van de zon "reeds" dÃ¡Ã¡r is, met kunstmatige
+kort", en het afscheid van de zon "reeds" dáár is, met kunstmatige
 verlichting den tijd in te halen dien men des morgens heeft bedorven?
 
 Ik denk aan onze woningen, waarin wij zoo verwend zijn, dat het
@@ -4057,7 +4090,7 @@ zich over de natuur beklaagt,--dan op den guursten Novemberdag?
 Ik denk aan onze steden: honderden en duizenden van menschen, het
 grootste gedeelte van hun leven, ja, zelfs in den regel, besloten
 tusschen muren en nog eens weer muren, en straten en nog eens weer
-straten, zoodat zij nauwelijks Ã©Ã©n uurtje daags den zonneschijn op
+straten, zoodat zij nauwelijks één uurtje daags den zonneschijn op
 hunne ramen hebben, en nooit de weelde smaken, de zon met eigen oogen
 te zien op- of ondergaan. Is 't wonder, dat voor velen hunner de zomer
 geen genot is, en dat zij,--misschien zonder het te weten,--hem daarom
@@ -4118,7 +4151,7 @@ past op geen enkel slot; en wie den Helm voor hoofddeksel wou
 gebruiken, zou al een heel raar fatsoen van hoofd moeten hebben."--De
 aardigheid was aanstekelijk, en de voorbeelden liggen slechts voor
 het oprapen. "Aan het Vuurkruid", viel een derde in, "kunt ge niet
-Ã©Ã©ns een sigaar aansteken: waarvoor dient zoo'n ding dan?"--"Onder
+ééns een sigaar aansteken: waarvoor dient zoo'n ding dan?"--"Onder
 al de Violen en Vioolachtigen is er geen enkele, waarop men, al was
 't ook maar het minste deuntje van Offenbach zou kunnen spelen."--"De
 meeste Paddestoelen zijn al heel onpraktische zitplaatsen, zelfs voor
@@ -4144,7 +4177,7 @@ van de eene of andere Philis te bergen!--Soms is er aan die wilde
 planten een legende verbonden, en dan heeten zij naar den eenen
 of anderen heilige; soms ook is hun naam louter onzin, zooals bij
 voorbeeld die van "kamperfoelie", blijkbaar verbasterd van het fransche
-"chÃªvre-feuille"! Soms weer zijn zij zeer teekenachtig, zooals die van
+"chêvre-feuille"! Soms weer zijn zij zeer teekenachtig, zooals die van
 "duivelsgaren" voor verschillende zeer lastige slingerplanten.--Doch
 hetzij hun zin dichtbij of veraf zij te zoeken, en hetzij wij ze
 mooi mogen vinden of leelijk, ik hoor ze in het dagelijksch leven
@@ -4213,7 +4246,7 @@ XXVIII.
 DE LOTOS.
 
 
-Onlangs had er een botanisch verkeerd Ã  propos plaats zooals heel licht
+Onlangs had er een botanisch verkeerd à propos plaats zooals heel licht
 gebeuren kan, wanneer twee of meer planten, in den loop der tijden,
 aan denzelfden naam gekomen zijn. Het was tusschen een geleerde, die
 zich nooit veel met bloemen ingelaten had, maar des te meer met oude
@@ -4225,11 +4258,11 @@ de letteren; "maar weet je wat ik graag eens zien zou: een Lotosbloem."
 
 --"Ja, die zijn ook heel mooi! Kent u ze niet?"
 
---"Ze zouden mij zoo interesseeren om de poÃ«zie, die er aan is
+--"Ze zouden mij zoo interesseeren om de poëzie, die er aan is
 verbonden. Je denkt dan zoo om een stil waterlandschap met een
 weelderigen plantengroei bij maanlicht." En hij vertelde een en ander
 van de "Lotophagi, de veelbebesproken Lotoseters", en beweerde dat
-hij er zelf wel eens even, bij voorbeeld voor Ã©Ã©n nacht, een zou
+hij er zelf wel eens even, bij voorbeeld voor één nacht, een zou
 willen wezen.
 
 --"Maar dat moeten dan toch koeien zijn, of schapen," schertste
@@ -4247,10 +4280,10 @@ willen wezen.
 ongeloovig. En halfluid reciteerde hij:
 
 
-           "Die Lotosblume Ã¤ngstigt
+           "Die Lotosblume ängstigt
             Sich vor der Sonne Pracht,
             Und mit gesenktem Haupte
-            Erwartet sie trÃ¤umend die Nacht."
+            Erwartet sie träumend die Nacht."
 
 
 Binnen weinige minuten was zij terug met een plantje van een paar palm
@@ -4259,7 +4292,7 @@ hoog, met fijne groene klaverblaadjes, en fraaie botergele bloempjes.
 --"Is dat een Lotos?" riep de doctor, "'t Lijkt wel een gouden-regen!"
 
 --"Een gouden-regen!" herhaalde nu het meisje op haar beurt, met al
-de verbazing van iemand, voor wie zÃ³Ã³'n vergissing sinds zes weken
+de verbazing van iemand, voor wie zóó'n vergissing sinds zes weken
 een onmogelijkheid was. "'t Is een Lotus corniculatus, een gehoornde
 Rolklaver."
 
@@ -4267,7 +4300,7 @@ Rolklaver."
 juffrouw Flora," eindigde de litterator vriendelijk.--Maar wat hij
 had wenschen te zien was een Nymphea-Lotus, dat sieraad van den Nijl,
 die met hare indische zuster, de Nymphea Nelumbo, als "Lotosbloem"
-zulk een voorname rol speelt in de aloude poÃ«zie van IndiÃ« en van
+zulk een voorname rol speelt in de aloude poëzie van Indië en van
 Egypte. En hij verhaalde daaromtrent verscheiden mythen en legenden,
 die haar lieve oogen deden glinsteren.
 
@@ -4324,7 +4357,7 @@ bosch, waar zij eene kleine watervlakte in het oog kreeg, 't Was een
 verlaten vijver, die zeker vroeger tot een buitenplaats behoord had,
 maar thans geheel aan zich zelven was overgelaten. Voor het grootste
 gedeelte was hij door hoog hout: linden, elzen, esschen, een paar wilde
-kastanjes en een treurwilg ingesloten; aan Ã©Ã©ne zijde, van waar thans
+kastanjes en een treurwilg ingesloten; aan ééne zijde, van waar thans
 het licht viel, liep de kant zacht glooiend af. Hier en daar groeide
 riet, zegge en pijlkruid. Rechts verhief zich een bos lischdodden en
 staken gele irissen haar sierlijke kronen omhoog, en links bloeiden,
@@ -4344,7 +4377,7 @@ meer geleerd had, in het midden....
 
 Dat kan zijn. Maar dat is bijzaak. Het is blijkbaar dezelfde
 uitdrukking van kalme, ontspannende schoonheid als waarmee deze
-bloemen, in dit weÃªr, in dit licht, stil op hare ronde bladeren rusten,
+bloemen, in dit weêr, in dit licht, stil op hare ronde bladeren rusten,
 die aan de Lotos hare wijding heeft geschonken....
 
 
@@ -4481,7 +4514,7 @@ langs zeilen--rijst de vraag in ons op, wat toch die rotsachtige massa
 is, waar wij tegen aankijken, "'t Lijkt de krijtkust van Engeland wel,"
 oppert iemand van het gezelschap; en een ander wil het zijne weten
 van "dien hoogen wal met loodrechte spleten". Om met dit laatste te
-beginnen, dat is niets anders dan het paalwerk, waarmeÃª een gedeelte
+beginnen, dat is niets anders dan het paalwerk, waarmeê een gedeelte
 der noord- en oostzijde van het eiland beschermd is, doch in dier
 voege, dat de zee altijd vrij in en uit kan stroomen. Zooals ik reeds
 zeide, de menschenhand treedt hier volstrekt niet zoo krachtig ter
@@ -4499,7 +4532,7 @@ en dragen hier en daar bedenkelijke sporen van heftige worstelingen
 met den golfslag. Als reusachtige stukken turf steken zij in zee uit,
 en daarbij zijn zij trouwens 't best te vergelijken. Hun overeenkomst
 met de engelsche krijtrotsen bestaat intusschen slechts in omgekeerde
-kleurverhoudingen: dÃ Ã r heeft men te doen met oorspronkelijk wit
+kleurverhoudingen: dààr heeft men te doen met oorspronkelijk wit
 krijt, dat grootendeels begroeid en bezoedeld is, en daardoor ten
 slotte slechts enkele helder witte plekken over heeft; hier is het een
 zwartbruine grondstof, die door verweering en begroeiing, gedeeltelijk
@@ -4609,7 +4642,7 @@ weefsel losmaken. Het huidje zelf is kleurloos, maar doorschijnend;
 en de vorm zijner cellen bepaalt de wijze, waarop het de tint der
 daaronder liggende kleurstof min of meer breekt. De Phlox is een
 hoogst eenvoudige bloemvorm. De proef op de som is, dat wanneer eene
-ongeoefende hand eene bloem tracht te teekenen, er tien tegen Ã©Ã©n
+ongeoefende hand eene bloem tracht te teekenen, er tien tegen één
 iets te voorschijn komt, wat ten naastebij op eene Phlox lijkt. Vijf
 ronde lobjes, zoo diep ingesneden dat zij voor vijf blaadjes kunnen
 doorgaan, uitloopend in een buis, waarin de binnenste organen zijn
@@ -4645,7 +4678,7 @@ houdt stand door alle wisseling van bloemenmode heen, en bloeit
 heden in moderne parken even gevierd en overvloedig, als toen zij,
 tweehonderd jaar geleden, reeds "in de tuinen der liefhebberen als
 een gemeen gewas bekend" stond. De tijd van hare invoering (juist
-niet uit Oost-IndiÃ«, maar uit Peru) is niet precies meer te bepalen,
+niet uit Oost-Indië, maar uit Peru) is niet precies meer te bepalen,
 en zij schijnt dan ook in het minst geen bezwaren tegen ons klimaat
 te hebben. Gij plant haar in het voorjaar aan den ingang van een
 prieeltje; gij zorgt slechts, dat zij licht en water genoeg heeft, en
@@ -4675,7 +4708,7 @@ O.-I. kers indertijd dikwijls de eer had, van tot sarring van
 met allerlei schakeeringen van geel tot bijna zwart toe afgewisseld
 geworden, maar behoudt toch den boventoon; en zoo vormen die massa
 "schildvormige bladeren en bloedroode bloemen", jaar in jaar uit,
-datgene wat Linnaeus aan "tropeeÃ«n der ouden" deed denken, toen hij
+datgene wat Linnaeus aan "tropeeën der ouden" deed denken, toen hij
 dit plantengeslacht met den naam Tropaeolum bestempelde! Mij dunkt,
 men kan begrijpen, hoe een man, zoo rijk aan fantazie, er blijkbaar
 zeker artistiek genot in schepte, den hem toestroomenden schat van heel
@@ -4696,7 +4729,7 @@ van haar natuurlijk karakter berooft en er, door verdubbeling, iets
 van tracht te maken, wat op rozen moet lijken. Maar zij zijn niet
 leelijk, wezenlijk niet, zoolang zij vrijuit volgens haar natuur mogen
 opgroeien, en zich handhaven in hare waardigheid van "grootstbloemige
-der MalvaceÃ«n". Sinds Mei heb ik een perkje met stokrozen onder het
+der Malvaceën". Sinds Mei heb ik een perkje met stokrozen onder het
 oog. Omstreeks dien tijd ontwikkelden zich aan ieder plantje een
 stuk of tien groote, heldergroene bladeren, die voorshands laag bij
 den grond bleven, maar zich daar meer en meer uitspreidden. Op 't
@@ -4765,7 +4798,7 @@ hooren. Vooreerst toch behooren daartoe verschillende soorten, wier
 weefsel van nature vrij droog en duurzaam is: (b. v. de zoogenaamde
 stroo- of zevenjaarsbloemen). Maar ook diegenen, welker randbloempjes
 van een teerder maaksel zijn,--Goudsbloemen, Sanvitalia's enz.--hebben
-in haar bloembodem en haar omwindsel (in Ã©Ã©n woord in datgene wat in
+in haar bloembodem en haar omwindsel (in één woord in datgene wat in
 de wandeling haar "hartje" heet) een steun, welken men aan bloemen
 zonder zulk een hartje nimmer kan verschaffen.
 
@@ -4840,7 +4873,7 @@ die te zamen een holle buis vormen, en door middel waarvan zij haar
 eieren onder de huid van haar slachtoffers brengen.
 
 De kleine wesp nu, die uitsluitend op koolrupsen aast, legt dikwijls
-meer dan 30 eitjes in den rug van Ã©Ã©ne rups. Ondanks de pijn, die
+meer dan 30 eitjes in den rug van ééne rups. Ondanks de pijn, die
 dit haar zeker moet veroorzaken, en het uitkomen en groeien van de
 made, blijft de rups toch doorgaans leven tot zij aan verpoppen toe
 is, en beklimt tot dat doel, blijkbaar met niet geringe moeite, een
@@ -4906,22 +4939,22 @@ wat fransch was.
 
 "Wat meent u?"
 
-"Je weet toch wel: die republikeinsche kalender: NivÃ´se, PluviÃ´se,
-VentÃ´se?"
+"Je weet toch wel: die republikeinsche kalender: Nivôse, Pluviôse,
+Ventôse?"
 
-"Germinal, FlorÃ©al, Prairial.... Maar wat heeft die met bloemen
+"Germinal, Floréal, Prairial.... Maar wat heeft die met bloemen
 te maken?"
 
 "Wel, voor iederen dag stond een bloem, of een beest, of een hark,
 of een ploeg, maar meest bloemen. De 28ste October was de verjaardag
 van Jan, goeden jongen, en dat was de dag van de Heliotrope. Dat wisten
 wij als kinderen allen precies. Je tante Lucie, die zoo droomerig kon
-wezen, plaagden wij er altijd meÃª, dat zij op den papaverdag t'huis
+wezen, plaagden wij er altijd meê, dat zij op den papaverdag t'huis
 hoorde, maar zij trof op de aardbei. Moeder had de Lelietjes-van-dalen,
 27 April...." En neef verdiepte zich in zijne kindsheidsherinneringen.
 
 "Maar hoe was dat dan, neef? Hadt u dat zelf bedacht, of was dat,
-hoe zal ik zeggen, officiÃ«el?"
+hoe zal ik zeggen, officiëel?"
 
 "Wel, het hoorde bij den kalender. 't Was in plaats van de
 heiligendagen. Wij hadden 't uit een zwitsersch almanakje; als je
@@ -4931,13 +4964,13 @@ goed zoekt, kan je 't misschien nog wel vinden....."
 
 De zaak had mijn belangstelling genoeg wakker gemaakt, om er een
 tochtje naar de vliering voor te wagen; en werkelijk vond ik het
-bedoelde boekje. Het was een Helvetischer Revolutionsalmanach fÃ¼r
+bedoelde boekje. Het was een Helvetischer Revolutionsalmanach für
 das Jahr 1800, welks inhoud begon met een dubbelen kalender, in de
 "oude" en de "fransche" tijdrekening. [5]
 
 
 Ik weet niet of deze laatste mijnen lezers bekend is: mij kwam ze
-gedeeltelijk nieuw voor. Ik kende wel de teekenachtige, aan het weÃªr
+gedeeltelijk nieuw voor. Ik kende wel de teekenachtige, aan het weêr
 ontleende namen der maanden... (Voelt gij geen Juli-gloed in het woord
 Thermidor, en ligt er niet een sombere Novemberdag verscholen tusschen
 de letters Brumaire?) Ik wist ook, dat de fransche republiek van 1800
@@ -4954,25 +4987,25 @@ gemakkelijk te vinden; dan behielp men zich met delfstoffen, zooals
 b. v. zand, klei, kalk; tot dat de sneeuwklokjes en hunne tijdgenooten
 de bloemenreeks begonnen, die in den herfst door vruchten en andere
 produkten uit het plantenrijk werd aangevuld. Daarenboven was de
-zaak zoo ingericht, dat telkens voor den vijfden dag der dÃ©cade een
+zaak zoo ingericht, dat telkens voor den vijfden dag der décade een
 huisdier, en voor den tienden dag een of ander landbouwgereedschap
 gesteld was." Dit nu zou alles netjes rondgeloopen hebben, indien het
 aantal dagen van het jaar juist in tienen deelbaar was geweest. Maar
-de zesendertigste dÃ©cade eindigde met den 30sten Fructidor, (17
-September); en vÃ³Ã³r den 1sten Vendemiaire--het republikeinsche jaar
+de zesendertigste décade eindigde met den 30sten Fructidor, (17
+September); en vóór den 1sten Vendemiaire--het republikeinsche jaar
 begon met 20 September,--moesten dus nog vijf dagen verloopen. In dit
 bezwaar had men op hoogst merkwaardige wijze voorzien, en wel door de
-zoogenaamde jours complÃ©mentaires. Deze waren niet gewijd aan bloemen,
+zoogenaamde jours complémentaires. Deze waren niet gewijd aan bloemen,
 noch aan aarde, noch aan steen, noch aan werktuigen, noch aan dieren;
-zij vormden geheel afzonderlijk eene halve dÃ©cade op zich zelve,
-en heetten eenvoudig naar de beruchte Septemberfeesten: 1 FÃªte de
-la Vertu; 2 FÃªte du GÃ©nie; 3 FÃªte du Travail; 4 FÃªte de l'Opinion;
-5 FÃªte de la RÃ©compense. [6]
+zij vormden geheel afzonderlijk eene halve décade op zich zelve,
+en heetten eenvoudig naar de beruchte Septemberfeesten: 1 Fête de
+la Vertu; 2 Fête du Génie; 3 Fête du Travail; 4 Fête de l'Opinion;
+5 Fête de la Récompense. [6]
 
 Ik was recht in mijn schik met mijn vondst, en neef Piet's hart werd er
 jong van. Allerhande bijzonderheden kwamen bij hem boven. "Op den 1sten
 September", vertelde hij, "gooiden wij altijd naar noten, en ergerden
-ons als ze nog niet rijp waren, want het was le jour des noix. EÃ©n
+ons als ze nog niet rijp waren, want het was le jour des noix. Eén
 dag in 't jaar werd de poes getrakteerd, omdat het le jour du chat
 was. Dat viel... O, neen, dat was de hond, die viel op Kerstmis. Dat
 was de ergernis van tante Leentje. Goed luthersch als zij was, vond ze
@@ -4992,22 +5025,22 @@ staatkundige wereld, de vernieuwende beginselen ook dadelijk op
 allerlei maatschappelijk gebied door te voeren. Men bewondert, en te
 recht, de levenskracht dier mannen, die te midden van de woelige en
 bloedige tooneelen van het schrikbewind, zich rustig bezighielden met
-het samenstellen van een wetboek, waaruit later het Code NapolÃ©on is
+het samenstellen van een wetboek, waaruit later het Code Napoléon is
 geworden; maar hoe eigenaardig uit zich dan niet de geest dier dagen in
-dezen, al naar ge het noemen wilt, naÃ¯even of genialen kalender. In
+dezen, al naar ge het noemen wilt, naïeven of genialen kalender. In
 alles moest verandering komen; geen onderdeel van 't dagelijksch
 leven was te gering om in de plotselinge hervorming te deelen; aan
 scheppingskracht ontbrak het niet, en een oorspronkelijke inval had
 meer dan in gewone tijden kans van toegejuicht te worden. Met welk
 een kunstgevoel is hier partij getrokken van het beetje natuurkennis,
 sinds gisteren of eergisteren door Rousseau op 't tapijt gebracht;
-hoeveel ruwe, maar karakteristieke poÃ«zie ligt er in al die ploegen,
+hoeveel ruwe, maar karakteristieke poëzie ligt er in al die ploegen,
 eggen, zeissen, ossen, als 't aktief ingrijpend element, midden
 tusschen de van wege de natuur geschonken grondstof, vertegenwoordigd
 door delfstoffen, boomen en bloeiende kruiden!
 
 Maar 't merkwaardigste van alles zijn en blijven toch voor mij
-die "jours complÃ©mentaires". Ligt daarin niet de indruk van eene
+die "jours complémentaires". Ligt daarin niet de indruk van eene
 bekentenis,--en in dit geval wel een zeer ongedwongene, zeer
 onwillekeurige, misschien onbewuste, maar daarom te treffender
 bekentenis,--dat de menschheid alleen bij de stoffelijke natuur om
@@ -5089,12 +5122,12 @@ dan dat zij ze ooit geheel zouden kunnen sluiten. Zelfs wanneer zij
 slapen, staan dezen dus altijd half open. Vandaar wellicht het woord
 "hazeslaapje"; terwijl de vorm van hunne bovenlip, (door eene breede
 gleuf, die zich tot het middenschot der neusgaten uitstrekt, bijna
-geheel in tweeÃ«n verdeeld), eene zeer natuurlijke aanleiding geeft
+geheel in tweeën verdeeld), eene zeer natuurlijke aanleiding geeft
 tot den term "hazelip". Zoodra de jongen kunnen loopen en mee kunnen
 eten van de spruiten op het veld, wordt het nest verlaten; en weldra
 heeft de moeder weer een ander, tot driemaal in het jaar toe. En daar
 die van 't eerste nest in 't najaar meestal zelven reeds weer jongen
-hebben, kan er van Ã©Ã©n hazenpaar binnen drie jaar gemakkelijk een
+hebben, kan er van één hazenpaar binnen drie jaar gemakkelijk een
 duizendtal afstammen.
 
 Tegen de verschillende gevaren, die hem gedurende zijn leven bedreigen,
@@ -5121,7 +5154,7 @@ op kan rennen, want zijn voorpooten (of "loopers"!) zijn langer dan
 zijn achterloopers: daardoor klimt hij gemakkelijker dan hij daalt,
 en maakt in het laatste geval dikwijls een buiteling. Merkt hij nu
 echter, dat ondanks al zijn vlugheid, de honden hem dicht op de hielen
-zijn, dan heeft hij nog Ã©Ã©n middel over. Hij neemt namelijk plotseling
+zijn, dan heeft hij nog één middel over. Hij neemt namelijk plotseling
 een geweldigen zijsprong, en loopt in een andere richting door. Vaak
 schieten dan zijne vervolgers in hunne drift voorbij, en in dat geval
 heeft Lampe een heel eind gewonnen. Door deze manoeuvre ontkomt hij
@@ -5195,7 +5228,7 @@ te wagen. De watersnip daarentegen, een weinig kleiner dan de vorige,
 voelt zich zeker bij ons meer in haar element. Zij broedt veelvuldig
 in Noord-Brabant en Groningen, aan lage, vochtige plaatsen; maar
 ook haar aantal wordt jaarlijks zeer vermeerderd in den trektijd,
-die voor deze soort twee malen voorkomt, nl. in het vÃ³Ã³r- en in het
+die voor deze soort twee malen voorkomt, nl. in het vóór- en in het
 najaar. Van Augustus tot het einde van October namelijk, trekken
 er een groot aantal watersnippen zuidwaarts, van Maart tot April
 noord-oostwaarts. Ook haar reis heeft bij nacht plaats, en overdag
@@ -5237,7 +5270,7 @@ hij den ganschen zomer door met zooveel dichterlijke stichting "de
 dienst" placht bij te wonen, den toegang onverwachts versperd vond
 door verdorde bladeren en afgewaaide takken en breede modderplassen; en
 dat een uil, die hem zag zoeken en zich met moeite een weg banen, hem
-vriendelijk terecht wees met de inlichting: "FermÃ© pour rÃ©parations."
+vriendelijk terecht wees met de inlichting: "Fermé pour réparations."
 
 Zoo zou het ons ook kunnen gaan, indien wij nog altijd volhielden
 bloemen in het vrije veld te willen zoeken!
@@ -5253,7 +5286,7 @@ de half vergane bladeren groeien, en die half een gevolg, half mede
 eene oorzaak zijn van hunne spoedige ontbinding en van de duffe lucht,
 die wij rondom ons waarnemen.
 
-En of deze nu bloeien? Kritieke vraag, in meer dan Ã©Ã©n opzicht. Wij
+En of deze nu bloeien? Kritieke vraag, in meer dan één opzicht. Wij
 zullen ons maar aan den geijkten term van Bedektbloeienden houden.
 
 Was dat bloeien, wat de Varens deden, toen zich, kort geleden, op de
@@ -5264,7 +5297,7 @@ vermenigvuldiging der plant, of, zooals het hier heet, "sporenvorming"
 afhangt. Zoo'n bloei schijnt zeker al heel zonderling; de zaak wordt
 echter reeds een weinig minder vreemd, zoodra wij kennis maken met
 die soorten van varens, (b. v. het inlandsche Dubbelloof, Blechnum
-Spicant), die er tweeÃ«rlei veeren op nahouden, waarvan de Ã©Ã©ne niet
+Spicant), die er tweeërlei veeren op nahouden, waarvan de ééne niet
 bloeien en de andere op bloeiende stengels gelijken; en indien wij
 daarbij denken aan den geleidelijken overgang van bladeren tot bloemen,
 door Goethe dichterlijk geschetst in zijn Metamorphose der Pflanzen.
@@ -5299,7 +5332,7 @@ zelve in het plantenrijk.
 
 Maar indien wij nagaan, hoe elk blaadje van het veenmos een gewoon
 boomblad in het zeer eenvoudig is, in dier voege namelijk, dat het
-opperhuid noch nerven heeft, maar slechts uit Ã©Ã©n laagje cellen
+opperhuid noch nerven heeft, maar slechts uit één laagje cellen
 bestaat;--indien wij in het algemeen bedenken, dat in die lagere,
 die eergevormde plantenwereld, met name in de varens, reeds al de
 bladvormen voorkomen, die zich later onder de zichtbaarbloeiende
@@ -5332,7 +5365,7 @@ om niet te weten dat ieder seizoen zijne eigene vogels oplevert. Wat
 den zomer aangaat, twijfelt niemand daaraan. Elk weet bijvoorbeeld,
 dat de terugkomst van de ooievaars tot de eerste voorjaarsteekenen
 behoort, en evenzeer dat op zeker punt van het najaar, de zwaluwen
-"heimwÃ¤rts", huiswaarts, trekken, al is die uitdrukking volstrekt
+"heimwärts", huiswaarts, trekken, al is die uitdrukking volstrekt
 niet juist: want onder iemands t'huis, zijn "heim", zijn vaderland,
 verstaat men toch doorgaans zijn geboorteplaats, en de zwaluwen,
 die 's zomers hier rondvliegen, zijn hier geboren, en gaan slechts
@@ -5399,7 +5432,7 @@ of blauwe kopjes nooit in handen van die brood-weekende weldoeners
 mogen vallen.
 
 De tegenvoeters der meezen op het punt van voeding zijn duiven. Dezen
-toch behooren tot de meest consequente vegetariÃ«rs. Nog nooit heeft,
+toch behooren tot de meest consequente vegetariërs. Nog nooit heeft,
 voor zoover ik weet, een duif een ander beest vermoord;--hetgeen
 zeker ook niet strooken zou met hare algemeen bekende reputatie
 van zachtheid... De keerzij hiervan is, dat zij juist daardoor,
@@ -5438,7 +5471,7 @@ Aan dergelijke wakken vertoont zich ook niet zelden het ijsvogeltje,
 dat zonderlinge dwergje met zijn hoogen smallen kop, zijn korten staart
 en vooruitstekende borst, welke allen nog te sterker uitkomen door zijn
 langen snavel, die reeds aanwijst van welk voedsel hij leeft. Hij is
-een echte visscher,--de "Martin-pÃªcheur" der Franschen,--en zit met
+een echte visscher,--de "Martin-pêcheur" der Franschen,--en zit met
 een geduld, een Leidschen hengelaar waardig, den lieven langen zomer,
 dag in dag uit hier of daar aan een slootkant; maar uit den aard der
 zaak komt hij het meest te voorschijn in den winter, als zijn beste
@@ -5459,9 +5492,9 @@ de slaap was zoo diep niet, of, het minst dat ik hem aanraakte,
 schrikte hij op, en vloog bijna zonder gedruisch weg. Men behoeft,
 om de oorzaak van dat stille vliegen te doorgronden, den bouw van
 zijne veeren slechts aandachtig te bezien. In plaats van, zooals
-andere veeren, aan weerszijden vast te zijn, nl. zÃ³Ã³ dat de baartjes
+andere veeren, aan weerszijden vast te zijn, nl. zóó dat de baartjes
 met fijne tandjes in elkander grijpen, is dit bij uilenveeren slechts
-aan Ã©Ã©ne zijde het geval, waardoor de geheele "pluimagie",--zooals
+aan ééne zijde het geval, waardoor de geheele "pluimagie",--zooals
 onze overgrootouders den vederdos noemden,--een zeer los karakter
 krijgt. Een molenroede met een zeil maakt onder 't malen veel meer
 leven dan eene met een leeg hek: een dergelijk verschil heeft hier
@@ -5504,7 +5537,7 @@ dat deze in staat was ze voor hen bruikbaar te maken.
 
 XXXVI.
 
-VÃ“Ã“R OF ACHTER DEN PLOEG.
+VÓÓR OF ACHTER DEN PLOEG.
 
 
 Ik betwijfel zeer, of er ooit in de werkelijkheid iemand bestaan
@@ -5551,7 +5584,7 @@ en de luit op zijde en--reisde zoo den bode na. De zeereis duurde
 drie of vier dagen. Tot vermaak van zich en hare tochtgenooten,
 begon zij midden op de zee muziek te maken; de bode zat aandachtig
 en met welgevallen te luisteren. "Zij herkende hem wel, maar hij haar
-niet". Toen zij geÃ«indigd had, stelde hij haar voor, met hem mede te
+niet". Toen zij geëindigd had, stelde hij haar voor, met hem mede te
 gaan naar zijn koning, die haar spel zeker rijkelijk zou beloonen;
 hij drong daar zeer op aan; zij stemde toe; zij reisden, toen zij aan
 land gestapt waren, samen verder, "over bergen en door diepe dalen"; en
@@ -5567,7 +5600,7 @@ speelde met vernieuwden moed, zoodat het door het geheele paleis klonk,
 en al de heidenen, ('s konings dienaren en gasten) begonnen te dansen.
 
 Den graaf werd de boodschap van zijn schoone vrouw gebracht; hij
-treurde daarover zeer en zag geene andere toekomst vÃ³Ã³r zich,
+treurde daarover zeer en zag geene andere toekomst vóór zich,
 dan zich "dood te moeten werken". De vrouw intusschen, in hare
 vermomming, keek met alle opmerkzaamheid naar haren man uit; en
 haar eenig verdriet was, dat zij hem nergens zag. Eindelijk klom
@@ -5579,7 +5612,7 @@ wilde men den muzikalen monnik rijkelijk beloonen. Men bracht hem
 "eene gouden kroon en een schepel vol goud", en verzocht hem die
 niet te versmaden; maar de monnik weigerde en zeide zeer nederig,
 dat "zijn orde hem niet vergunde zoo iets aan te nemen", en hij zulk
-loon niet begeerde. "Maar", voegde hij er bij, "om Ã©Ã©n geschenk wil
+loon niet begeerde. "Maar", voegde hij er bij, "om één geschenk wil
 ik u vragen: het is niet om roodgeel goud, noch om edele steenen,
 noch om eenig ander goed, maar alleen om den man, die ginds in het
 veld den ploeg trekt." De koning antwoordde beleefd: "Heer, neem dien,
@@ -5603,11 +5636,11 @@ zij zich in den vreemde aan hem had vertoond; en dat bij dien aanblik
 de graaf opsprong van blijdschap, haar in zijne armen greep en uitriep:
 
 
-        "das ist der abenteurer, der mich erlÃ¶set hat!"
+        "das ist der abenteurer, der mich erlöset hat!"
 
 
 Onder de prentjes, die in mijn oude boek dit verhaal aanschouwelijk
-moeten maken, is Ã©Ã©n, zeer sterk sprekend, waarop een man, bijna naakt
+moeten maken, is één, zeer sterk sprekend, waarop een man, bijna naakt
 en met uitgerekte spieren, rondom zijn lendenen is ingespannen voor een
 soort van wagentje met twee kleine wieltjes, dat bij nader onderzoek
 een ploeg blijkt te zijn; terwijl een ander, met een tulband op het
@@ -5621,7 +5654,7 @@ als het niet vriest, maar ook niet mist of stormt of regent, als het
 eigenlijk niets doet, doch de boer daarvan gebruikt maakt om des
 te meer te doen! Denkt u een heuvelachtige, eenigszins boschrijke
 streek; de reeds opkomende dunne nevel van den korten namiddag
-belet u om vÃ¨r om u heen te zien, en belooft een van die prachtig
+belet u om vèr om u heen te zien, en belooft een van die prachtig
 geschakeerde zonsondergangen, die juist in dit jaargetij ons oog
 zoo kunnen verblijden. Links van u liggen eenige roeden met rapen,
 rechts staat winterkoren te veld; de hooibergen rondom de huizen
@@ -5738,7 +5771,7 @@ het woord dikwijls op prijscouranten voorkomt).
 
 Tot dergelijke "Conifeertjes" zullen wij ons thans terug dienen te
 trekken, nu bijna alles uitgebloeid heeft. In stadstuintjes, vooral
-in de zeer kleinen, (vÃ³Ã³r aan de straat, achter een ijzeren hekje),
+in de zeer kleinen, (vóór aan de straat, achter een ijzeren hekje),
 plegen zij een groote rol te spelen, en vormen daar wat de Engelschen
 hun "shrubbery" noemen.
 
@@ -5752,10 +5785,10 @@ wiens naaldjes altijd vijf aan vijf staan, zooals die van onzen
 gewonen den twee aan twee; hij komt uit de berglanden van zuidelijk
 Europa. Daarnaast prijkt een echt Cedertje "van den Libanon". Die
 kleine Balsempijnboom of Hemlockspar, zooals hij tegenwoordig hier
-genoemd wordt, komt uit VirginiÃ«. De Cypres vertegenwoordigt ons
+genoemd wordt, komt uit Virginië. De Cypres vertegenwoordigt ons
 de grieksche rouwplechtigheden; en die Araucaria met hare stijve,
 breede, geschubde armen,--is 't wezenlijk een levend boompje of een
-kapstok?--hoort in BraziliÃ« tehuis. Uw Thuya is een Noord-amerikaan,
+kapstok?--hoort in Brazilië tehuis. Uw Thuya is een Noord-amerikaan,
 ofschoon reeds sinds lang hier burger geworden, en met den naam
 van "Arbor vitae" vereerd. Het kan wel zijn, dat menigeen, die van
 "Levensboom" hoort spreken, daaronder heel iets anders vermoedt dan
@@ -5768,7 +5801,7 @@ niet-kegeldragers, dadelijk kenbaar aan hun ander loof-karakter. De
 Aucubas, met haar gevlekte laurierachtige bladeren, komen uit Japan,
 evenals de bonte Evonymus, een groenblijvende nabestaande van ons
 Papenhout. De Ledum groeit in 't wild in Polen en Bohemen; de Arbutus
-Unedo in ItaliÃ« en 't Zuiden van Frankrijk; de Kalmia, die, bij goede
+Unedo in Italië en 't Zuiden van Frankrijk; de Kalmia, die, bij goede
 verzorging, omstreeks Juni in een appelbloesemkleurig bruidskleed
 zal prijken, in Noord-Amerika.
 
@@ -5800,13 +5833,13 @@ het riviertje het geheele jaar door overvloed van bruikbaar water,
 en op den koop toe forellen en krabben. Bevaarbaar is het nooit,
 maar dan ook zeer zelden gevaarlijk; in 't voorjaar, als de sneeuw in
 het gebergte begint weg te dooien, zwelt de stroom natuurlijk zooals
-alle anderen; doch de plaats der meeste huizen is wel zÃ³Ã³ gekozen,
+alle anderen; doch de plaats der meeste huizen is wel zóó gekozen,
 dat die tegen hare mogelijke kromme sprongen zijn gevrijwaard. Een
 en ander geeft aan dit valleitje iets behagelijks en menschelijks,
 zonder daarom aan den diepen indruk zijner eigenaardige natuurpracht te
 schaden. Die indruk wordt voornamelijk te weeg gebracht door de hoogte
 der bergen ter rechter en ter linkerzijde, en door de kronkelingen van
-rivier en dal, meestal ook vÃ³Ã³r en achter,--zoodat men schijnbaar
+rivier en dal, meestal ook vóór en achter,--zoodat men schijnbaar
 geheel ingesloten is, en de uitgangen niet ziet, maar slechts
 vermoedt. Die bergen nu zijn bijna overal, van onderen tot boven,
 begroeid met verschillende soorten van naaldboomen. Toen ik per spoor
@@ -5827,11 +5860,11 @@ mooien zomerdag daar nederzaten, kwam dikwijls de gedachte in ons
 op: "Hoe somber moet het hier des winters zijn!" Dan rekenden wij
 echter buiten de sneeuw, die ten eerste een groot deel van de door
 ons vermoede wintereenzaamheid en afgeslotenheid wegneemt, door
-het vlug en vroolijk sleÃªverkeer, en ten andere de somberheid der
+het vlug en vroolijk sleêverkeer, en ten andere de somberheid der
 groene bergwanden breekt door haar tintelend wit.--Denkt u een mooien
 Februaridag, met vorst maar zonder wind. Op elken boom ligt zooveel
 sneeuw als hij maar dragen kan zonder te breken: de veerkracht van de
-breede takken wordt op een zware proef gesteld; zij buigen dÃ³Ã³r onder
+breede takken wordt op een zware proef gesteld; zij buigen dóór onder
 hunnen reinen last. De spitse toppen van de sparren en de vlakke kroon
 der dennen wisselen elkander sierlijk af tegen den blauwen ether;
 en al de duizend groene twijgjes, die tegen de sneeuw afsteken,
@@ -5839,7 +5872,7 @@ bewaren 't landschap voor eentonigheid. 't Is Vrouwendag: er zal een
 groote sledevaart gehouden worden. De zon beschijnt en koestert u,
 en betoovert de sneeuw; en haar stralen dringen door in de diepte der
 bosschen, en lokken hier en daar een kudde herten naar hun zoom. Gij
-glijdt voort in een ijlende vaart, maar toch niet zÃ³Ã³ snel, of gij
+glijdt voort in een ijlende vaart, maar toch niet zóó snel, of gij
 kunt de schoonheid om u heen naar hartelust genieten. En zoo de dag
 al kort is, des avonds komt de maan op, en verlicht den terugtocht
 op haar wijze.... Wie dat eens in vollen glans heeft bijgewoond,
@@ -5866,14 +5899,14 @@ op die manier te overwinteren, en eerst met de lente weer voor den
 dag te komen. Erken maar eerlijk, dat de herfst u dikwijls sombere,
 neerslachtige oogenblikken bezorgd heeft: iets waarop gij meer kans
 hebt, naarmate gij meer met de natuur meeleeft, en meer ontvankelijk
-zijt voor hare indrukken. Doch zoo er dan nog slechts Ã©Ã©n greintje
+zijt voor hare indrukken. Doch zoo er dan nog slechts één greintje
 veerkracht in ons over is, herstellen wij ons doorgaans dadelijk in
 het besef, dat een mensch meer is dan een visch of een marmot. Ik
 voor mij ten minste, hoe gevoelig ik ben voor de opwekkelijke prikkels
 van ijle lucht en zonneschijn, schaam mij altijd, als ik op het punt
 ben mij door mist of "waterkou" te laten nederdrukken. Vaak, als het
 leven mij op de eene of andere wijze pijn deed, was, zoo ik de ruimte
-slechts in 't oog kon krijgen, Ã©Ã©n blik op den blauwen hemel met zijn
+slechts in 't oog kon krijgen, één blik op den blauwen hemel met zijn
 lichtgrijze wolkjes genoeg, om mij weer blijde te doen zijn dat ik
 geboren was, al ware het alleen maar voor 't plezier van deze schoone
 tinten te genieten. Doch zoo vaak een Decemberdag mij dreigde mee te
@@ -5952,7 +5985,7 @@ verval en vergankelijkheid,--er, om een muzikaal beeld te gebruiken,
 vrede bij kan hebben een dissonant te wezen, mits hij zich slechts
 bewust zij, deel uit te maken van eene schoone symfonie.
 
-Alleen echter op Ã©Ã©ne voorwaarde kan ik in mijn "dissonant"schap
+Alleen echter op ééne voorwaarde kan ik in mijn "dissonant"schap
 berusten:--dat ik nl. den mogelijken Kunstenaar van de "symfonie" mag
 vermoeden, Hem vereeren en liefhebben. Ik heb behoefte om dankbaar
 te wezen, in zoover mijne levenskunst mij gelukt; behoefte om mijn
@@ -5967,7 +6000,7 @@ gedachte aan Hem te scheppen.
 Godsgemeenschap is, als kunstgewrocht, alleen aan schoonheidswetten
 onderworpen. Elke poging tot detailleeren op dit gebied is
 wansmaak. Zoodra zij vaste voorstellingen aanneemt,--tot dogmatiek
-verstijft,--ontaardt de poÃ«zie van 't religieuse leven. De eerbied
+verstijft,--ontaardt de poëzie van 't religieuse leven. De eerbied
 zelf voor mijnen onbekenden Maker leert mij ten zijnen opzichte
 bescheidenheid.
 
@@ -5982,7 +6015,7 @@ is met mij," dan trilt in mij een volle, diepe weerklank mede met
 zulk eene eenige religiositeit. Maar ik kan mij, eerlijk en oprecht,
 zeer wel de mogelijkheid voorstellen, dat ik tot al het bovenstaande
 uit eigen ervaring even goed zou gekomen zijn, al had ik nooit van
-joodsche psalmen of kristelijke evangeliÃ«n gehoord.
+joodsche psalmen of kristelijke evangeliën gehoord.
 
 Het behoort tot mijn verdriet in 't leven, dat er op het gebied van
 vrije, dogmatieklooze vroomheid zoo weinig gezelligheid heerscht in
@@ -6020,7 +6053,7 @@ soldaten, die allen met roodbonte huiden overtrokken zijn.
 
 [2] Ik verzoek HH. botanisten zeer vriendelijk, om zoo spoedig mogelijk
 een paar goede woorden uit te willen vinden, waarmede het karakter
-van Ã©Ã©n- en twee-zaadlobbige planten in volwassen toestand uitgedrukt
+van één- en twee-zaadlobbige planten in volwassen toestand uitgedrukt
 wordt; zoodat men niet telkens, om het sterksprekend onderscheid
 tusschen deze beide afdeelingen van het plantenrijk aan te duiden,
 zeer omslachtig tot de ontkiemingsperiode van iederen boom behoeft
@@ -6029,20 +6062,20 @@ terug te gaan!
 [3] Te Dortmund in Westfalen staat,--stond althans voor een paar jaar
 nog,--een echt middeleeuwsche veemlinde. Midden op het spoorterrein,
 tusschen talrijke elkaar kruisende rails, (en Dortmund is een punt
-waar verscheiden mazen van het duitsche spoorwegnet inÃ©Ã©nloopen),
+waar verscheiden mazen van het duitsche spoorwegnet inéénloopen),
 was een heuvel uitgespaard van een voet of drie in het vierkant;
 en daarop stond een steenen bank, waarop weleer veemgericht gehouden
-werd, beschaduwd door een holle, stokoude linde, met nog slechts Ã©Ã©n
+werd, beschaduwd door een holle, stokoude linde, met nog slechts één
 levenden tak.
 
 [4] Houttuyn. "Natuurlijke historie."
 
 [5] In dezer voege:
 
-              JÃ¤nner.                       NivÃ´se.
+              Jänner.                       Nivôse.
 
      Mittwoch     1   Neujahr.   |  Primidi    11   Poix.
-     Donnerstag   2   Mel D.     |  Duodi      12   ThÃ©rebent.
+     Donnerstag   2   Mel D.     |  Duodi      12   Thérebent.
      Freitag      3   Enoch.     |  Tridi      13   Argile.
      Samstag      4   Gottfried. |  Quatridi   14   Marne.
      Sonntag      5   Simeon.    |  Quintidi   15   Lapin.
@@ -6057,6 +6090,367 @@ om na te gaan hoe in dat geval voorzien werd.
 
 
 
-End of the Project Gutenberg EBook of NatuurfantazieÃ«n, by G. Carelsen
+End of the Project Gutenberg EBook of Natuurfantazieën, by G. Carelsen
 
-*** END OF THE PROJECT GUTENBERG EBOOK 52479 ***
+*** END OF THIS PROJECT GUTENBERG EBOOK NATUURFANTAZIEËN ***
+
+***** This file should be named 52479-8.txt or 52479-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/2/4/7/52479/
+
+Produced by Jeroen Hellingman and the Online Distributed
+Proofreading Team at http://www.pgdp.net/ for Project
+Gutenberg.
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
